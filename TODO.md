@@ -1,1 +1,1 @@
-- Symbole (Warnbos, Glühbirne, ...) einfügen
+- Symbole (Achtung, Glühbirne, ...) einfügen
