@@ -84,8 +84,11 @@ Entwickeln Sie mithilfe von Bildern aus dem Internet eine Collage (Text-Bild), a
 Begründen Sie Ihre Motivation, sich mit diesem Problem auseinanderzusetzen.
 
 - Sie können die Bilderportale Pixabay und flickr bei der Bildersuche nutzen.
-- Geben Sie die die Bildnachweise bzw. Lizenzangaben korrekt an.
+- Geben Sie die Bildnachweise bzw. Lizenzangaben korrekt an.
+</div>
 
+<!--  style = "background-color: #F7D358; color:black" -->
+<div>
 **Hilfestellungen/Begleitung**
 
 Sie erhalten bei der Vorstellung ihres identifizierten Problems Feedback aus dem Plenum und können diese Rückmeldungen für eine weitere Vertiefung und ggf. Verfeinerung der Problemdefinition nutzen. Sie sollten nach Abschluss dieser Phase eine vorläufige Fragestellung formuliert haben. Diese dient der ersten Literaturrecherche.
