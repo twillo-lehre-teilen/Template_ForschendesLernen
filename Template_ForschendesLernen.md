@@ -73,6 +73,8 @@ Die Vortragenden sollten in jedem Fall eine Rückmeldung über ihre identifizier
 
 Das Ziel dieser Phase ist es einen Zugang zum Themenfeld zu erhalten, sodass aus diesem heraus "Probleme" identifiziert werden, die in einem weiteren Schritt wissenschaftlich bearbeiten werden können.
 
+<!--  style = "background-color: lightblue; color:black" -->
+<div>
 ✎ **Arbeitsauftrag**
 
 **Collage als Annäherung an ein Problem**
@@ -87,6 +89,7 @@ Begründen Sie Ihre Motivation, sich mit diesem Problem auseinanderzusetzen.
 **Hilfestellungen/Begleitung**
 
 Sie erhalten bei der Vorstellung ihres identifizierten Problems Feedback aus dem Plenum und können diese Rückmeldungen für eine weitere Vertiefung und ggf. Verfeinerung der Problemdefinition nutzen. Sie sollten nach Abschluss dieser Phase eine vorläufige Fragestellung formuliert haben. Diese dient der ersten Literaturrecherche.
+</div>
 
 ## Phase 2: Finden einer Fragestellung
 
