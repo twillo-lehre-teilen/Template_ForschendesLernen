@@ -63,10 +63,30 @@ Folgende Aufgaben können Sie in das WebQuest integrieren:
 
 **Hilfestellungen**
 
-(Warnung) Bieten Sie Feedbackmöglichkeiten an, z.B. eine Plenumssitzung, in der alle Teilnehmenden ihr wahrgenommenes Problem vorstellen können. Dies kann in einer einfachen Vorstellungsrunde oder in einer Pitch-Vorstellung geschehen.
+(Warnsymbol) Bieten Sie Feedbackmöglichkeiten an, z.B. eine Plenumssitzung, in der alle Teilnehmenden ihr wahrgenommenes Problem vorstellen können. Dies kann in einer einfachen Vorstellungsrunde oder in einer Pitch-Vorstellung geschehen.
 
 Die Vortragenden sollten in jedem Fall eine Rückmeldung über ihre identifizierten Probleme erhalten, um Sie auf ihrem Weg zur Fragestellung /Forschungsfrage zu stärken und Sie ggf. beim Nachjustieren zu unterstützen. Formulieren Sie daher zusätzlich etwa einen Auftrag für das Peer-Feedback und stellen Sie dazu eine LMS-Funktion (z.B. Forum, oder (Projekt-)Wiki) bereit. (Alternativ:  Hierfür können SIe einen Auftrag für ein Peer-Feedback formulieren und dazu eine LMS-Funktion (z.B. Forum, Wiki) bereitstellen.)
-(Glühbirne)Ein Wiki könnte dahingehend umfunktioniert werden, dass es auch als regelmäßiges Dokumentations- und Feedbackinstrument dient.
+
+(Glühbirne) Ein Wiki könnte dahingehend umfunktioniert werden, dass es auch als regelmäßiges Dokumentations- und Feedbackinstrument dient.
+
+- Template [WebQuest-Vorlage](https://wiki.tib.eu/confluence/download/attachments/131468599/Vorlage%20WebQuest.odt?version=5&modificationDate=1622027493000&api=v2)
+
+Das Ziel dieser Phase ist es einen Zugang zum Themenfeld zu erhalten, sodass aus diesem heraus "Probleme" identifiziert werden, die in einem weiteren Schritt wissenschaftlich bearbeiten werden können.
+
+✎ **Arbeitsauftrag**
+
+**Collage als Annäherung an ein Problem**
+
+Entwickeln Sie mithilfe von Bildern aus dem Internet eine Collage (Text-Bild), aus der ein Problem hervorgeht, das Sie im Zusammenhang mit unserem Thema identifiziert haben.
+
+Begründen Sie Ihre Motivation, sich mit diesem Problem auseinanderzusetzen.
+
+- Sie können die Bilderportale Pixabay und flickr bei der Bildersuche nutzen.
+- Geben Sie die die Bildnachweise bzw. Lizenzangaben korrekt an.
+
+**Hilfestellungen/Begleitung**
+
+Sie erhalten bei der Vorstellung ihres identifizierten Problems Feedback aus dem Plenum und können diese Rückmeldungen für eine weitere Vertiefung und ggf. Verfeinerung der Problemdefinition nutzen. Sie sollten nach Abschluss dieser Phase eine vorläufige Fragestellung formuliert haben. Diese dient der ersten Literaturrecherche.
 
 ## Phase 2: Finden einer Fragestellung
 
