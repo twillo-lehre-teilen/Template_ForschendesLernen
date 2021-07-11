@@ -124,7 +124,10 @@ Die Vortragenden sollten in jedem Fall eine Rückmeldung über ihre identifizier
   - Template [WebQuest-Vorlage](https://wiki.tib.eu/confluence/download/attachments/131468599/Vorlage%20WebQuest.odt?version=5&modificationDate=1622027493000&api=v2)
 </div>
 
-Das Ziel dieser Phase ist es einen Zugang zum Themenfeld zu erhalten, sodass aus diesem heraus "Probleme" identifiziert werden, die in einem weiteren Schritt wissenschaftlich bearbeiten werden können.
+<!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  Das Ziel dieser Phase ist es einen Zugang zum Themenfeld zu erhalten, sodass aus diesem heraus "Probleme" identifiziert werden, die in einem weiteren Schritt wissenschaftlich bearbeiten werden können.
+</div>
 
 <!--  style = "background-color: lightblue; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>
@@ -187,7 +190,10 @@ Bieten Sie Termine für Rückbesprechungen an. Als Vorbereitung für die Besprec
   - [Template Dreisatz Test zur Fragestellung](https://github.com/pilotta314/LiaScript_ForschendesLernen/blob/master/docs/chapter_2/Dreisatz-Test%20zur%20Fragestellung.pptx)
 </div>
 
-Das Ziel dieser Phase ist es, dass Sie durch die intensive Auseinandersetzung mit dem Themenfeld den Forschungsgegenstand für sich definieren und über die kritische Reflexion unterschiedlicher möglicher Fragestellungen eine eigene Fragestellung und erste Hypothesen formulieren.
+<!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  Das Ziel dieser Phase ist es, dass Sie durch die intensive Auseinandersetzung mit dem Themenfeld den Forschungsgegenstand für sich definieren und über die kritische Reflexion unterschiedlicher möglicher Fragestellungen eine eigene Fragestellung und erste Hypothesen formulieren.
+</div>
 
 <!--  style = "background-color: lightblue; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>
@@ -232,7 +238,10 @@ Am Ende dieser Phase sollte der konkrete Gegenstand der Forschungsfrage theoreti
   - Kommentierte Literaturliste: Studierende legen eine Literaturliste zu ihrem Forschungsgegenstand an und setzen über die Funktion Kommentare entsprechende Kommentierungen zum ausgewählten Litratur.
 </div>
 
-Das Ziel dieser Phase ist es, dass Sie zu Ihrer Fragestellung Informationen und theoretische Bezüge zusammengetragen und erarbeitet haben.
+<!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  Das Ziel dieser Phase ist es, dass Sie zu Ihrer Fragestellung Informationen und theoretische Bezüge zusammengetragen und erarbeitet haben.
+</div>
 
 <!--  style = "background-color: lightblue; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>
@@ -281,7 +290,10 @@ Am Ende können Studierende begründen, warum gerade diese Methode bzw. dieses w
   - [Vorlage Elevator Pitch](https://github.com/pilotta314/LiaScript_ForschendesLernen/blob/master/docs/chapter_4/elevator%20pitch.pptx)
 </div>
 
-Das Ziel dieser Phase ist es, dass Sie über ein adäquates Methodenwissen verfügen, um das Forschungsdesign entwickeln und die Forschung durchführen zu können. Nachdem der Forschungsgegenstand identifiziert wurde, können erste Überlegungen zum methodischen Verfahren angestellt werden.
+<!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  Das Ziel dieser Phase ist es, dass Sie über ein adäquates Methodenwissen verfügen, um das Forschungsdesign entwickeln und die Forschung durchführen zu können. Nachdem der Forschungsgegenstand identifiziert wurde, können erste Überlegungen zum methodischen Verfahren angestellt werden.
+</div>
 
 <!--  style = "background-color: lightblue; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>
@@ -329,7 +341,10 @@ Um die einzelnen Eckdaten sowie Vorbereitungsschritte von der Datenerhebung bis 
   - [Zeitplan Vorlage](https://github.com/pilotta314/LiaScript_ForschendesLernen/blob/master/docs/chapter_5/Zeitund%20Ablaufplan%20Forschendes%20Lernen.pptx)
 </div>
 
-Das Ziel dieser Phase ist es, dass Sie über ein adäquates Methodenwissen verfügen, um das Forschungsdesign entwickeln und die Forschung durchführen zu können. Nachdem der Forschungsgegenstand identifiziert wurde, können erste Überlegungen zum methodischen Verfahren angestellt werden.
+<!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  Das Ziel dieser Phase ist es, dass Sie über ein adäquates Methodenwissen verfügen, um das Forschungsdesign entwickeln und die Forschung durchführen zu können. Nachdem der Forschungsgegenstand identifiziert wurde, können erste Überlegungen zum methodischen Verfahren angestellt werden.
+</div>
 
 <!--  style = "background-color: lightblue; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>
@@ -381,7 +396,7 @@ In dieser Forschungsphase kommen regelmäßigen Sprechstundenangeboten eine beso
   - *Kalenderfunktion*
 </div>
 
-<!--  style = "background-color: lightblue; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>
   Das Ziel dieser Phase ist es, dass Sie die Forschung selbstständig durchführen und den Prozess wissenschaftlich dokumentieren.
 </div>
@@ -417,7 +432,7 @@ Verweisen Sie noch einmal auf die Hilfestellungen z.B. Gestaltungskritrien von w
   - Studierende können in einem Ablagebereich, den Sie im LMS anlegen, ihre Poster hochladen. Diese Anlagestruktur können Sie durch geeignete LMS Elemente (z.B. Verzeichnis o.ä.) voranlegen.
 </div>
 
-<!--  style = "background-color: lightblue; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>
   Das Ziel dieser Phase ist es, dass die Forschungsergebnisse erarbeitet und im Rahmen einer Postervorstellung im Plenum vorgestellt werden.
 </div>
@@ -455,7 +470,7 @@ Sollte ein Forschungsprojekt vermeintlich gescheitert sein, regen Sie zur Reflex
   - [Vorlage Reflexion und Feedback (Vgl. Sonntag, M./Rueß, J./Ebert, C./Friederici, K./Schilow, L./Deicke, W. (2018): Forschendes Lernen im Seminar. Ein Leitfaden für Lehrende. Berlin, S.38-9)](https://github.com/pilotta314/LiaScript_ForschendesLernen/blob/master/docs/chapter_8/Reflexion%20und%20Feedback.pptx)
 </div>
 
-<!--  style = "background-color: lightblue; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>
   Das Ziel dieser Phase ist es, dass Sie die eigene Forschung und die gemeinsame Arbeit im Plenum reflektieren.
 </div>
