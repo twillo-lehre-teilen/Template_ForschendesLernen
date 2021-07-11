@@ -170,7 +170,7 @@ Methodisch bietet sich in dieser Phase z.B. das Clustering von Fragen und Intere
 
 Am Ende dieser Phase sollte eine Fragestellung stehen. Gelegentlich kommt es vor, dass sich diese noch präzisiert oder ändert. Deshalb ist ein moderierter Schulterblick in dieser Phase von großer Bedeutung. Nehmen Sie eine beratende Rolle ein und unterstützen Sie die Studierenden ergebnisoffen bei der selbstständigen Erarbeitung ihrer Fragestellung. Schaffen Sie Räume für Rückbesprechungen. Diese können im Rahmen eines Beratungssettings erfolgen oder als Gruppenphase im Plenum gestaltet werden.
 
-Bieten Sie Termine für Rückbesprechungen an. Als Vorbereitung für die Besprechung kann ein zuvor prägnanter Arbeitsauftrag den Termin strukturieren, z.B. das Ausfüllen und Mitbringen der Vorlage [Dreisatz-Test zur Fragestellung]("https://github.com/pilotta314/LiaScript_ForschendesLernen/blob/master/docs/chapter_2/Dreisatz-Test zur Fragestellung.pptx")
+Bieten Sie Termine für Rückbesprechungen an. Als Vorbereitung für die Besprechung kann ein zuvor prägnanter Arbeitsauftrag den Termin strukturieren, z.B. das Ausfüllen und Mitbringen der Vorlage [Dreisatz-Test zur Fragestellung](https://github.com/pilotta314/LiaScript_ForschendesLernen/blob/master/docs/chapter_2/Dreisatz-Test%20zur%20Fragestellung.pptx)
 
 - Stellen Sie z.B. eine Checkliste zur Formulierung einer Forschungsfrage bereit
 - Schauen Sie im LMS nach geeigneten interaktiven Elementen und setzen Sie sie ggf. ein (z.B. Foren)
