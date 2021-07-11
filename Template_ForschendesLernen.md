@@ -350,10 +350,112 @@ Das Ziel dieser Phase ist es, dass Sie über ein adäquates Methodenwissen verf�
 
 **Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
 
+**Lernziel**
+
+Das Ziel dieser Phase ist es, dass die Studierenden die Forschung selbstständig durchführen.
+
+**Didaktik**
+
+Je nach Rahmenbedingungen können Sie zwischen einem der hier aufgeführten Strukturierungsgrade wählen. "Die Forschungsaktivitäten (...) können:
+
+- (a) von der Lehrperson stark *angeleitet* sein (Leitlinien für forschende Tätigkeiten, explizite Reflexionsaufgaben etc.)
+- (b) mit Anleitung begonnen und dann nur mehr *ausschleichend* unterstützt werden
+- (c) von vornherein allenfalls bedarfsorientiert *begleitet* werden" (Reimann 2019: 164, kursiv im Original)
+
+Studierende und Lehrende stehen Irrtümern im Forschungsprozess offen gegenüber und sehen sie als lehrreichen Ausgangspunkt für Umwege oder zufällige Entdeckungen. Für die Durchführung der Forschung wird ein entsprechend großzügig zeitlicher Rahmen gesetzt.
+
+Die Erprobung der spezifischen Methoden sollte vor allem in kleineren Gruppen erfolgen. Hierfür können Lehrende Materialien bereitstellen. (z.B. Leitfaden, Beobachtungsprotokoll, Transkription von Interviews oder eine Übersicht von methodischen Schritten spezifischer Erhebungs- oder Auswertungsmethoden). Gestalten sich die Auswertung und Analyse kompliziert, unterstützen Lehrende und andere Studierende.
+
+**Methoden & Materialien**
+
+Methodisch bietet sich in dieser Phase für den Austausch zu Zwischenergebnissen der Gallery-Walk an (siehe ~~Methodenglossar~~). Je nach Arbeitsstand und Bedarf können die Studierenden an einem oder mehreren angebotenen oder festgelegten Terminen ihre Zwischenergebnisse präsentieren und diskutieren lassen.
+
+**Hilfestellungen**
+
+In dieser Forschungsphase kommen regelmäßigen Sprechstundenangeboten eine besonders große Bedeutung zu.
+
+<!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  **Inhalt:**
+
+  - *Kalenderfunktion*
+</div>
+
+<!--  style = "background-color: lightblue; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  Das Ziel dieser Phase ist es, dass Sie die Forschung selbstständig durchführen und den Prozess wissenschaftlich dokumentieren.
+</div>
+
 ## Phase 7: Erarbeitung und Präsentation der Ergebnisse
 
 **Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
 
+**Lernziel**
+
+Das Ziel dieser Phase ist es, dass die Forschungsergebnisse erarbeitet und im Plenum vorgestellt wurden.
+
+**Didaktik**
+
+Unter der Berücksichtigung der vorherrschenden Rahmenbedingungen können Sie zwischen einem der hier aufgeführten Strukturierungsgrade wählen. Die "Präsentation und Diskussion der Ergebnisse
+
+- (a) erfolgen primär *intern* innerhalb der Veranstaltung, wobei eine prinzipielle Zugänglichkeit der Ergebnisse sichergestellt sein muss (weil man sonst nicht von Forschung sprechen könnte),
+- (b) finden in unterschiedlicher Weise *teilöffentlich* statt, etwa über studentische Forschungskonferenzen oder im Austausch mit anderen Hochschulen und Partnerinnen, über eigene Publikationsorgane etc.
+- (c) fließen in die wissenschaftliche Gemeinschaft ein und werden in dem Sinne *öffentlich*, dass Ergebnisse in wissenschaftlichen Publikationsorganen, auf Veranstaltungen außerhalb der Lehre oder anders mit prinzipiell unbegrenzter Reichweite zugänglich gemacht werden." (Reimann 2019: 166, kursiv im Original)
+
+**Methoden & Materialien**
+
+Methodisch bietet sich in dieser Phase eine offene Posterpräsentation an. Postersession im Rahmen der Lerhveranstaltung, Fachtag im Fachbereich oder die Möglichkeit die wissenschaftlichen Poster auf themenspezifische Fachkonferenzen zu präsentieren (Gallery Walk). Weitere geeignete Methoden können Sie unserem ~~Methodenglossar~~ entnehmen.
+
+**Hilfestellungen**
+
+Verweisen Sie noch einmal auf die Hilfestellungen z.B. Gestaltungskritrien von wissenschaftlichen Poster oder auf die Postervorlage.
+
+<!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  **Inhalt:**
+
+  - Studierende können in einem Ablagebereich, den Sie im LMS anlegen, ihre Poster hochladen. Diese Anlagestruktur können Sie durch geeignete LMS Elemente (z.B. Verzeichnis o.ä.) voranlegen.
+</div>
+
+<!--  style = "background-color: lightblue; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  Das Ziel dieser Phase ist es, dass die Forschungsergebnisse erarbeitet und im Rahmen einer Postervorstellung im Plenum vorgestellt werden.
+</div>
+
 ## Phase 8: Reflexion des gesamten Prozesses
 
 **Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
+
+**Lernziel**
+
+Das Ziel dieser Phase ist es, dass die Studierenden die eigene Forschung und die gemeinsame Arbeit im Plenum reflektieren.
+
+**Didaktik**
+
+Je nach Rahmenbedingungen können Sie zwischen einem der hier aufgeführten Strukturierungsgrade wählen. Die Reflexion des gesamten Prozesses kann durch Feedbackstrukturen während der gesamten Veranstaltung gesichert werden. Hierfür können Sie für Feedback-Prozesse
+
+- "(a) die Studierenden selbst einbeziehen, also Peers, und diese anregen und anleiten, sich untereinander Rückmeldung im Verlauf der Forschung zu geben,
+- (b) sich selbst als Lehrender (oder auch Tutoren) gezielt an bestimmten Stellen einplanen und/oder
+- (c) Externe einbinden (z.B. Kooperationspartnerin der Forschung oder potenziell Interessierte an den Forschungsergebnissen)." (Reimann 2019: 165)
+
+Abschließend können die Studierenden sowohl den Forschungsprozess wie auch ihren eigenen Lernfortschritt reflektieren.
+
+**Methoden & Materialien**
+
+Methodisch bietet sich in dieser Phase z.B. eine Auswertungszielscheibe an (siehe ~~Methodenglossar~~).
+
+**Hilfestellungen**
+
+Sollte ein Forschungsprojekt vermeintlich gescheitert sein, regen Sie zur Reflexion an: Was sind Gründe für fehlende Daten? Passte die Erhebungsmethode vielleicht nicht zur Auswertungsmethode? Ganz gleich, wie es zum Abbruch oder zur Nicht-Fertigstellung gekommen ist, sollte darauf hingewiesen werden, dass auch in Forschungsprojekten außerhalb des Studiums Fehler, falsche Annahmen und Scheitern immer möglich sind und letztlich Ausgangspunkte für neue Fragen oder Herangehensweisen sein können.
+
+<!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  **Inhalt:**
+
+  - [Vorlage Reflexion und Feedback (Vgl. Sonntag, M./Rueß, J./Ebert, C./Friederici, K./Schilow, L./Deicke, W. (2018): Forschendes Lernen im Seminar. Ein Leitfaden für Lehrende. Berlin, S.38-9)](https://github.com/pilotta314/LiaScript_ForschendesLernen/blob/master/docs/chapter_8/Reflexion%20und%20Feedback.pptx)
+</div>
+
+<!--  style = "background-color: lightblue; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  Das Ziel dieser Phase ist es, dass Sie die eigene Forschung und die gemeinsame Arbeit im Plenum reflektieren.
+</div>
