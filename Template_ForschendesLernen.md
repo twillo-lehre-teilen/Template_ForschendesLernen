@@ -344,7 +344,6 @@ Das Ziel dieser Phase ist es, dass Sie über ein adäquates Methodenwissen verf�
 - Methodisches Vorgehen (Erhebung und Auswertung, Gang der Untersuchung)
 - Literaturliste
 - Zeit- & Ablaufplan
-
 </div>
 
 ## Phase 6: Durchführung der forschenden Tätigkeit
