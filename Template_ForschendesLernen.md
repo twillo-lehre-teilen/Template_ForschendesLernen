@@ -296,6 +296,57 @@ Das Ziel dieser Phase ist es, dass Sie über ein adäquates Methodenwissen verf�
 
 **Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
 
+**Lernziel**
+
+Das Ziel dieser Phase ist es, dass die Studierenden selbstständig ein Forschungsdesign für die Untersuchung ihrer Fragestellung entwickelt haben.
+
+**Didaktik**
+
+Je nach Rahmenbedingungen können Sie zwischen einem der hier aufgeführten Strukturierungsgrade wählen. Die Verschriftlichung des Forschungsvorhabens kann:
+
+- (a) vom Lehrenden detailliert *vorstrukturiert* werden
+- (b) über Leitfäden seitens des Lehrenden entsprechend *teilstrukturiert* sein
+- (c) *offen* in dem Sinne bleiben, dass die Studierenden die verschriftlichung weitgehend in Eigenregie leisten (in starker Anlehnung an Reimann 2019: 164, kursiv im Original)
+
+In einem ersten Schritt entwickeln die Studierenden ihr Forschungsdesign, auf das sie im Anschluss von der Lehrperson und anderen Studiernden ausführlich Feedback erhalten, um es zu optimieren zu können. Eine Begleitung ist hier von Bedeutung, da die Forschungsvorhaben in einem begrenzten Zeitraum realisiert werden müssen.
+
+**Methoden & Materialien**
+
+Methodisch bietet sich in dieser Phase z.B. ein Reality Check (siehe ~~Methodenglossar~~) an. Mithilfe gezielter Leitfragen können Studierende ihr Vorhaben kritisch hinterfragen und mithilfe eines Gruppenfeedbacks oder im Rahmen einer Sprechstunde nachjustieren.
+
+Formulieren Sie konkrete Arbeitsaufträge und holen Sie sich die Ergebnisse ein. Das in dieser Phase erarbeitete Teilergebnis könnte ein Element der Studien- oder Prüfungsleistung sein oder als Vorbereitung für diese dienen. Bei der Erstellung eines wissenschaftlichen Posters könnten die Aspekte Relevanz, Fragestellung und Hypothesen, Methoden und Materialien in der Form eines Steckbriefs abgefragt werden.
+
+**Hilfestellungen**
+
+Am Ende dieser Phase können Studierende vorbereitet in die forschende Tätigkeitkeit übergehen. Bei Projekten mit empirischen Forschungsmethoden müssen in dieser Phase die Erhebungsinstrumente besprochen und ggf. erprobt werden. Hierfür können Kleingruppen gebildet werden. Falls Ihre Hochschule eine Methodenberatung anbietet, können Sie die Studierenden auf die weitere Unterstützungsmöglichkeit hinweisen.
+
+Um die einzelnen Eckdaten sowie Vorbereitungsschritte von der Datenerhebung bis zur Auswertung zu organisieren, empfiehlt es sich einen -mehr oder weniger detaillierten- Zeit- und Arbeitsplan zu erstellen. Hier kann ein einziger Plan für alle Arbeitsschritte erstellt werden. Dieser Plan kann in der **Phase 3 Auswahl und Aneignung von Methoden** bereits als grobes Orientierungsraster angelegt und schrittweise weiterentwickelt oder angepasst werden. Die Übersicht sollte aber am Ende von **Phase 5 Entwicklung eines Forschungsdesigns** detailliert vorliegen, um klar zu haben, welche Aufgaben bis zur Datenerhebung (ggf. von wem) abgeschlossen werden sollten.
+
+<!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  **Inhalt:**
+
+  - [Zeitplan Vorlage](https://github.com/pilotta314/LiaScript_ForschendesLernen/blob/master/docs/chapter_5/Zeitund%20Ablaufplan%20Forschendes%20Lernen.pptx)
+</div>
+
+Das Ziel dieser Phase ist es, dass Sie über ein adäquates Methodenwissen verfügen, um das Forschungsdesign entwickeln und die Forschung durchführen zu können. Nachdem der Forschungsgegenstand identifiziert wurde, können erste Überlegungen zum methodischen Verfahren angestellt werden.
+
+<!--  style = "background-color: lightblue; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  **✎ Arbeitsauftrag:**
+
+  Entwickeln Sie Ihr Forschungsdesign als Verschriftlichung des geplanten methodischen Vorgehens. Orientieren Sie sich dabei an folgenden Punkten:
+
+- Nennung des Themas
+- Herleitung/Benennung der Forschungsfragen
+- Theoretische Verortung
+- Forschungsstand (aktuelle Bezüge)
+- Methodisches Vorgehen (Erhebung und Auswertung, Gang der Untersuchung)
+- Literaturliste
+- Zeit- & Ablaufplan
+
+</div>
+
 ## Phase 6: Durchführung der forschenden Tätigkeit
 
 **Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
