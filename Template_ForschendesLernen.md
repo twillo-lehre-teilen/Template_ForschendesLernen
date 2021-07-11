@@ -1,5 +1,53 @@
 # Template - Forschendes Lernen
 
+- [Informationen für Lehrende](#2)
+
+  - [Was ist Forschendes Lernen](#2)
+  - [Hinweise zur Nutzung des Templates](#2)
+
+- [Lernmodul](#3)
+
+  - [Phase 0: Vorbereitung und Ankündigung/Kursinformation](#3)
+  - [Phase 1: Problem wahrnehmen](#4)
+  - [Phase 2: Finden einer Fragestellung](#5)
+  - [Phase 3: Erarbeiten von Informationen und theoretischen Zugängen](#6)
+  - [Phase 4: Auswahl und Aneignung von Methoden](#7)
+  - [Phase 5: Entwicklung eines Forschungsdesigns](#8)
+  - [Phase 6: Durchführung der forschenden Tätigkeit](#9)
+  - [Phase 7: Erarbeitung und Präsentation der Ergebnisse](#10)
+  - [Phase 8: Reflexion des gesamten Prozesses](#11)
+
+
+## Informationen für Lehrende
+---
+** Was ist Forschendes Lernen **
+
+Diese didaktische Vorlage Forschendes Lernen von twillo ist lizenziert unter der Lizenz CC 0 (1.0). Ausgenommen von der Lizenz sind die verwendeten Screenshots sowie anders gekennzeichnete Elemente.
+
+Forschendes Lernen ist ein didaktisches Konzept, in dem das eigene Fragen und Untersuchen und somit die Generierung eigenen Wissens im Vordergrund steht:
+
+Studierende..
+
+- entwickeln selbstständig eine für sie relevante Fragestellung
+- wählen selbständig die für sie geeignete Methode(n)
+- gestalten und reflektieren den gesamten Forschungsprozess
+- präsentieren ihre Ergebnisse
+
+Über die selbstständige Entwicklung von Fragestellungen, Methodenwahl, Gestaltung des Forschungsprozesses sowie Reflexion und Präsentation der Ergebnisse eignen sich die Studierenden eine Reihe fachlicher und überfachlicher Kompetenzen an. Beim Forschenden Lernen geht es im Besonderen darum Forschungspraxis zu erleben und eine Forschungshaltung zu entwickeln. Hierfür werden den Studierenden Räume für spezifische Aktivitätsniveaus des Forschens eingeräumt und sie somit in Forschungshandlungen versetzt. Je nach Rahmenbedingungen (zeitliche/personelle Ressourcen) können unterschiedliche Szenarien entwickelt werden.
+
+Das didaktische Template basiert auf der idealtypischen Anordnung der acht Phasen Forschendes Lernen nach Huber (2009:11).
+
+*Weiterführende Literatur:*
+
+*Huber, L. (2009): Warum Forschendes Lernen nötig und möglich ist. In: Huber,L./ Hellmer, J./Schneider, F. (Hrsg.): Forschendes Lernen im Studium. Aktuelle Konzepte und Erfahrungen. Bielefeld, 9–35*
+*HRK (Hrsg.) (2015): Forschendes Lernen. In: Nexus impulse für die Praxis, H. 8. Online verfügbar unter https://www.hrk-nexus.de/fileadmin/redaktion/hrk-nexus/07-Downloads/07-02-Publikationen/impuls_Forschendes_Lernen.pdf*
+
+---
+** Hinweise zur Nutzung des Templates **
+
+[...]
+
+
 ## Phase 0: Vorbereitung und Ankündigung/Kursinformation
 
 **Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
@@ -73,7 +121,7 @@ Die Vortragenden sollten in jedem Fall eine Rückmeldung über ihre identifizier
 
 Das Ziel dieser Phase ist es einen Zugang zum Themenfeld zu erhalten, sodass aus diesem heraus "Probleme" identifiziert werden, die in einem weiteren Schritt wissenschaftlich bearbeiten werden können.
 
-<!--  style = "background-color: lightblue; color:black" -->
+<!--  style = "background-color: lightblue; color:black; padding: 10px;" -->
 <div>
 ✎ **Arbeitsauftrag**
 
@@ -87,7 +135,7 @@ Begründen Sie Ihre Motivation, sich mit diesem Problem auseinanderzusetzen.
 - Geben Sie die Bildnachweise bzw. Lizenzangaben korrekt an.
 </div>
 
-<!--  style = "background-color: #F7D358; color:black" -->
+<!--  style = "background-color: #F7D358; color:black; padding: 10px;" -->
 <div>
 **Hilfestellungen/Begleitung**
 
@@ -96,14 +144,65 @@ Sie erhalten bei der Vorstellung ihres identifizierten Problems Feedback aus dem
 
 ## Phase 2: Finden einer Fragestellung
 
+**Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
+
+**Lernziel**
+
+Das Ziel dieser Phase ist es, dass die Studierenden durch die intensive Auseinandersetzung mit dem Themenfeld den Forschungsgegenstand für sich definieren und über die kritische Reflexion unterschiedlicher möglicher Fragestellungen eine eigene Fragestellung und erste Hypothesen formulieren.
+
+**Didaktik**
+
+Je nach Rahmenbedingungen können Sie zwischen einem der hier aufgeführten Strukturierungsgrade wählen: "Thema und Forschungsfragen können
+
+- (a) von (...) Lehrenden weitgehend vorgegeben sein
+- (b) durch das Curriculum gerahmt sein und innerhalb des Rahmens eigene Entscheidungen ermöglichen
+- (c) von den Studierenden eigenständig vorgeschlagen und weitgehend selbst gesetzt" (Reinmann 2019: 164, kursiv im Original)
+
+Bei Strukturierungsgrad b und c können die Studierenden anhand der bereitgestellten Materialien aus Phase 1 eruieren, welche Fragen bereits stichhaltig beantwortet werden und welche sich für (weitere) Forschung eignen.
+
+**Methoden & Materialien**
+
+Stellen Sie auch für diese Phase geeignete Materialien bereit, die den Prozess des Findens einer Fragestellung unterstützen. Das können fachlich ausgerichtete Materialien (z.B. ein Foliensatz) oder methodische bzw. didaktische Materialien zum Thema Finden einer Fragestellung sein.
+
+Methodisch bietet sich in dieser Phase z.B. das Clustering von Fragen und Interessenfeldern an (siehe ~~Methodenglossar~~). Für die digitale Umsetzung eignet sich das kostenlose Tool [Conceptboard](https://conceptboard.com/de/), das Sie im Bereich Materialien verlinken können. Vorgeschaltet können Sie die Ideenfindung mit der Kopfstandmethode über negative Fragen unterstützen: Was steht nicht in Frage? Was weckt nicht Ihr Interesse?
+
+**Hilfestellungen**
+
+Am Ende dieser Phase sollte eine Fragestellung stehen. Gelegentlich kommt es vor, dass sich diese noch präzisiert oder ändert. Deshalb ist ein moderierter Schulterblick in dieser Phase von großer Bedeutung. Nehmen Sie eine beratende Rolle ein und unterstützen Sie die Studierenden ergebnisoffen bei der selbstständigen Erarbeitung ihrer Fragestellung. Schaffen Sie Räume für Rückbesprechungen. Diese können im Rahmen eines Beratungssettings erfolgen oder als Gruppenphase im Plenum gestaltet werden.
+
+Bieten Sie Termine für Rückbesprechungen an. Als Vorbereitung für die Besprechung kann ein zuvor prägnanter Arbeitsauftrag den Termin strukturieren, z.B. das Ausfüllen und Mitbringen der Vorlage [Dreisatz-Test zur Fragestellung]("https://github.com/pilotta314/LiaScript_ForschendesLernen/blob/master/docs/chapter_2/Dreisatz-Test zur Fragestellung.pptx")
+
+- Stellen Sie z.B. eine Checkliste zur Formulierung einer Forschungsfrage bereit
+- Schauen Sie im LMS nach geeigneten interaktiven Elementen und setzen Sie sie ggf. ein (z.B. Foren)
+
+<!--  style = "background-color: lightblue; color:black; padding: 10px;" -->
+Das Ziel dieser Phase ist es, dass Sie durch die intensive Auseinandersetzung mit dem Themenfeld den Forschungsgegenstand für sich definieren und über die kritische Reflexion unterschiedlicher möglicher Fragestellungen eine eigene Fragestellung und erste Hypothesen formulieren.
+<br><br>
+**✎ Arbeitsauftrag zur Fragestellung**
+Sie befinden sich aktuell noch in der Orientierungsphase, in der Sie womöglich mehrere thematische Schwerpunkte gefunden haben. Nun gilt es, sich für einen Schwerpunkt zu entscheiden und eine konkrete Fragestellung zu formulieren, die Sie untersuchen möchten,
+<br><br>
+Wenn Sie der Meinung sind, eine Fragestellung gefunden zu haben, überprüfen Sie sie mithilfe des **Dreisatz-Tests**. Nutzen Sie hierfür die Vorlage **Dreisatz-Test zur Fragestellung**. Füllen Sie diese die Vorlage aus und senden Sie mir das Dokument per E-Mail zu.
+
 ## Phase 3: Erarbeiten von Informationen und theoretischen Zugängen
+
+**Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
 
 ## Phase 4: Auswahl und Aneignung von Methoden
 
+**Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
+
 ## Phase 5: Entwicklung eines Forschungsdesigns
+
+**Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
 
 ## Phase 6: Durchführung der forschenden Tätigkeit
 
+**Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
+
 ## Phase 7: Erarbeitung und Präsentation der Ergebnisse
 
+**Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
+
 ## Phase 8: Reflexion des gesamten Prozesses
+
+**Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
