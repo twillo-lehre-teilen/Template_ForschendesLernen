@@ -117,11 +117,16 @@ Die Vortragenden sollten in jedem Fall eine Rückmeldung über ihre identifizier
 
 (Glühbirne) Ein Wiki könnte dahingehend umfunktioniert werden, dass es auch als regelmäßiges Dokumentations- und Feedbackinstrument dient.
 
-- Template [WebQuest-Vorlage](https://wiki.tib.eu/confluence/download/attachments/131468599/Vorlage%20WebQuest.odt?version=5&modificationDate=1622027493000&api=v2)
+<!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  **Inhalt:**
+
+  - Template [WebQuest-Vorlage](https://wiki.tib.eu/confluence/download/attachments/131468599/Vorlage%20WebQuest.odt?version=5&modificationDate=1622027493000&api=v2)
+</div>
 
 Das Ziel dieser Phase ist es einen Zugang zum Themenfeld zu erhalten, sodass aus diesem heraus "Probleme" identifiziert werden, die in einem weiteren Schritt wissenschaftlich bearbeiten werden können.
 
-<!--  style = "background-color: lightblue; color:black; padding: 10px;" -->
+<!--  style = "background-color: lightblue; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>
 ✎ **Arbeitsauftrag**
 
@@ -135,7 +140,7 @@ Begründen Sie Ihre Motivation, sich mit diesem Problem auseinanderzusetzen.
 - Geben Sie die Bildnachweise bzw. Lizenzangaben korrekt an.
 </div>
 
-<!--  style = "background-color: #F7D358; color:black; padding: 10px;" -->
+<!--  style = "background-color: #F7D358; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>
 **Hilfestellungen/Begleitung**
 
@@ -154,9 +159,9 @@ Das Ziel dieser Phase ist es, dass die Studierenden durch die intensive Auseinan
 
 Je nach Rahmenbedingungen können Sie zwischen einem der hier aufgeführten Strukturierungsgrade wählen: "Thema und Forschungsfragen können
 
-- (a) von (...) Lehrenden weitgehend vorgegeben sein
-- (b) durch das Curriculum gerahmt sein und innerhalb des Rahmens eigene Entscheidungen ermöglichen
-- (c) von den Studierenden eigenständig vorgeschlagen und weitgehend selbst gesetzt" (Reinmann 2019: 164, kursiv im Original)
+- (a) von (...) Lehrenden weitgehend *vorgegeben* sein
+- (b) durch das Curriculum *gerahmt* sein und innerhalb des Rahmens eigene Entscheidungen ermöglichen
+- (c) von den Studierenden eigenständig vorgeschlagen und weitgehend *selbst gesetzt*" (Reinmann 2019: 164, kursiv im Original)
 
 Bei Strukturierungsgrad b und c können die Studierenden anhand der bereitgestellten Materialien aus Phase 1 eruieren, welche Fragen bereits stichhaltig beantwortet werden und welche sich für (weitere) Forschung eignen.
 
@@ -175,21 +180,117 @@ Bieten Sie Termine für Rückbesprechungen an. Als Vorbereitung für die Besprec
 - Stellen Sie z.B. eine Checkliste zur Formulierung einer Forschungsfrage bereit
 - Schauen Sie im LMS nach geeigneten interaktiven Elementen und setzen Sie sie ggf. ein (z.B. Foren)
 
-<!--  style = "background-color: lightblue; color:black; padding: 10px;" -->
+<!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  **Inhalt:**
+
+  - [Template Dreisatz Test zur Fragestellung](https://github.com/pilotta314/LiaScript_ForschendesLernen/blob/master/docs/chapter_2/Dreisatz-Test%20zur%20Fragestellung.pptx)
+</div>
+
 Das Ziel dieser Phase ist es, dass Sie durch die intensive Auseinandersetzung mit dem Themenfeld den Forschungsgegenstand für sich definieren und über die kritische Reflexion unterschiedlicher möglicher Fragestellungen eine eigene Fragestellung und erste Hypothesen formulieren.
-<br><br>
-**✎ Arbeitsauftrag zur Fragestellung**
-Sie befinden sich aktuell noch in der Orientierungsphase, in der Sie womöglich mehrere thematische Schwerpunkte gefunden haben. Nun gilt es, sich für einen Schwerpunkt zu entscheiden und eine konkrete Fragestellung zu formulieren, die Sie untersuchen möchten,
-<br><br>
-Wenn Sie der Meinung sind, eine Fragestellung gefunden zu haben, überprüfen Sie sie mithilfe des **Dreisatz-Tests**. Nutzen Sie hierfür die Vorlage **Dreisatz-Test zur Fragestellung**. Füllen Sie diese die Vorlage aus und senden Sie mir das Dokument per E-Mail zu.
+
+<!--  style = "background-color: lightblue; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  **✎ Arbeitsauftrag zur Fragestellung**
+  Sie befinden sich aktuell noch in der Orientierungsphase, in der Sie womöglich mehrere thematische Schwerpunkte gefunden haben. Nun gilt es, sich für einen Schwerpunkt zu entscheiden und eine konkrete Fragestellung zu formulieren, die Sie untersuchen möchten.
+
+  Wenn Sie der Meinung sind, eine Fragestellung gefunden zu haben, überprüfen Sie sie mithilfe des **Dreisatz-Tests**. Nutzen Sie hierfür die Vorlage **Dreisatz-Test zur Fragestellung**. Füllen Sie diese die Vorlage aus und senden Sie mir das Dokument per E-Mail zu.
+</div>
 
 ## Phase 3: Erarbeiten von Informationen und theoretischen Zugängen
 
 **Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
 
+**Lernziel**
+
+Das Ziel dieser Phase ist es, dass die Studierenden zu ihrer Fragestellung Informationen und theoretische Bezüge zusammengetragen und erarbeitet haben.
+
+**Didaktik**
+
+Je nach Rahmenbedingungen können Sie zwischen einem der hier aufgeführten Strukturierungsgrade wählen: Theoretische Inhalte und Grundlagen
+
+- (a) Werden von Lehrenden recherchiert, bereitgestellt und vermittelt
+- (b) Werden schwerpunktmäßig selbst recherchiert und erarbeitet
+- (c) Werden von Lernenden recherchiert, bereitgestellt und in Gruppen (peer-Verfahren) vermittelt
+
+**Methoden & Materialien**
+
+Je nach ausgewähltem Strukturierungsgrad stellen Sie auch für diese Phase geeignete Materialien bereit, die den Prozess der Erarbeitung von Grundlagen und theoretischen Zugängen unterstützen. Relevante Theorien und Informationen können in Form von Foliensätzen oder in Form von Literaturlisten bereitgestellt werden. Geben Sie bei Rechercheaufträgen aufgabengeleitete Orientierungshilfen.
+
+Methodisch bietet sich in dieser Phase z.B. ein Gruppenpuzzle (Jigsaw-Methode) an (siehe ~~Methodenglossar~~).
+
+Formulieren Sie Arbeitsaufträge, z. B. Studierende sollen am Ende der Phase eine kommentierte Literaturliste vorstellen. Sie sollen für jede bibliographische Angabe notieren, für welchen Zweck diese verwendet wird: Definition, Begriffsbestimmung, Merkmale, Dimensionen, Position, Diskussion etc.
+
+**Hilfestellungen**
+
+Am Ende dieser Phase sollte der konkrete Gegenstand der Forschungsfrage theoretisch beleuchtet sein. Bieten Sie auch hier Räume an, in denen die Studierende in den Austausch kommen. Als Begleitperson des Prozesses ist es wichtig, einen Überblick über den aktuellen Stand der jeweiligen Studierenden bzw. Gruppe zu erhalten, um ggf. weitere Impulse zu geben.
+
+<!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  **Inhalt:**
+
+  - Kommentierte Literaturliste: Studierende legen eine Literaturliste zu ihrem Forschungsgegenstand an und setzen über die Funktion Kommentare entsprechende Kommentierungen zum ausgewählten Litratur.
+</div>
+
+Das Ziel dieser Phase ist es, dass Sie zu Ihrer Fragestellung Informationen und theoretische Bezüge zusammengetragen und erarbeitet haben.
+
+<!--  style = "background-color: lightblue; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  **✎ Arbeitsauftrag:**
+
+  Legen Sie eine Literaturliste an, in der Sie über die Kommentarfunktion für jede Literaturangabe einen Bezug zur eigenen Fragestellung herstellen.
+
+  Mögliche Leitfragen für die Kommentare:
+
+  - Welche Information aus dem Text verarbeite ich in meiner Arbeit?
+  - Warum beziehe ich mich jeweils auf die Literatur (zur Definition, Begriff, Zustimmung, Abgrenzung, Argumentation, Bestätigung)?
+</div>
+
 ## Phase 4: Auswahl und Aneignung von Methoden
 
 **Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
+
+**Lernziel**
+
+Das Ziel dieser Phase ist es, dass die Studierenden über ein adäquates Methodenwissen verfügen, um das Forschungsdesign entwickeln und die Forschung durchführen zu können. Nachdem der Forschungsgegenstand identifiziert wurde, können erste Überlegungen zum methodischen Verfahren angestellt werden.
+
+**Didaktik**
+
+Je nach Rahmenbedingungen können Sie zwischen einem der hier aufgeführten Strukturierungsgrade wählen. "Die Wahl eines Forschungsansatzes und die Entscheidung für passende wissenschaftliche Methoden können:
+
+- (a) vom Lehrenden detailliert *vorstrukturiert* werden
+- (b) über Leitlinien seitens des Lehrenden moderiert und entsprechend *teilstrukturiert* sein
+- (c) *offen* in dem Sinne bleiben, dass die Studierenden die Planung weitgehend in Eigenregie leisten" (Reimann 2019: 164, kursiv im Original)
+
+**Methoden & Materialien**
+
+Je nach ausgewähltem Strukturierungsgrad stellen Sie auch für diese Phase geeignete Materialien bereit. Die Studierenden sollten sich zunächst durch die Vermittlung des Lehrenden oder durch die Bereitstellung von Literatur relevantes methodisches Wissen aneigenen können. Bei entsprechendem Wissensstand können auch andere Studierende diese Aufgabe übernehmen oder unterstützen. Wichtig ist hier die eigenständige Textarbeit anzusprechen.
+
+Methodisch bietet sich in dieser Phase z.B. eine Fishbowl-Diskussion (siehe ~~Methodenglossar~~) an. Formulieren Sie ganz konkrete Arbeitsaufträge und holen Sie sich die Ergebnisse ein bzw. lassen Sie die Ergebnisse im Lernmanagementsystem hochladen.
+
+Um die Sichtbarkeit der Projekte in der Veranstaltung zu erhöhen, können Sie einen Elevator Pitch (siehe ~~Methodenglossar~~) der einzelnen Forschungsprojekte initiieren, Mithilfe eines kurzen Leitfadens können sich die Studierende am Ende der Phase 4 strukturiert auf einen Pitch im Plenum vorbereiten. Überlegen Sie, welche Informationen zu den Projekten in 5 Minuten gegeben werden sollen.
+
+**Hilfestellungen**
+
+Am Ende können Studierende begründen, warum gerade diese Methode bzw. dieses wissenschaftliche Vorgehen für ihre Forschungsfrage geeignet scheint. Peer to Peer Ansätze können dabei helfen, wichtige Fragen zum vorgestellten Forschungsvorhaben zu stellen und ggf. Vorgehen zu diskutieren. Die lehrende Person moderiert den Prozess.
+
+<!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  **Inhalt:**
+
+  - [Vorlage Elevator Pitch](https://github.com/pilotta314/LiaScript_ForschendesLernen/blob/master/docs/chapter_4/elevator%20pitch.pptx)
+</div>
+
+Das Ziel dieser Phase ist es, dass Sie über ein adäquates Methodenwissen verfügen, um das Forschungsdesign entwickeln und die Forschung durchführen zu können. Nachdem der Forschungsgegenstand identifiziert wurde, können erste Überlegungen zum methodischen Verfahren angestellt werden.
+
+<!--  style = "background-color: lightblue; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>
+  **✎ Arbeitsauftrag:**
+
+  Bereiten Sie im Rahmen eines Elevator Pitches einen Kurzvortrag vor und erläutern Sie im Plenum Ihr methodisches Vorgehen. Beachten Sie dabei die Aspekte aus der Vorlage (Evelator Pitch).
+
+  Im Anschluss des Kurzvortrags können Ihre Kommiliton:innen Ihnen Rückmeldung zu Ihrem geplanten Vorgehen geben.
+</div>
 
 ## Phase 5: Entwicklung eines Forschungsdesigns
 
