@@ -35,7 +35,7 @@ Machen Sie durch die Bereitstellung von Informationen oder Hilfsmitteln transpar
 
 ## Phase 1: Problem wahrnehmen
 
-**Regieanweisung**
+**Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
 
 **Lernziel**
 
