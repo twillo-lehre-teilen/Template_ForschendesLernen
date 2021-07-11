@@ -111,11 +111,11 @@ Folgende Aufgaben können Sie in das WebQuest integrieren:
 
 **Hilfestellungen**
 
-&#9888; Bieten Sie Feedbackmöglichkeiten an, z.B. eine Plenumssitzung, in der alle Teilnehmenden ihr wahrgenommenes Problem vorstellen können. Dies kann in einer einfachen Vorstellungsrunde oder in einer Pitch-Vorstellung geschehen.
+⚠️ Bieten Sie Feedbackmöglichkeiten an, z.B. eine Plenumssitzung, in der alle Teilnehmenden ihr wahrgenommenes Problem vorstellen können. Dies kann in einer einfachen Vorstellungsrunde oder in einer Pitch-Vorstellung geschehen.
 
 Die Vortragenden sollten in jedem Fall eine Rückmeldung über ihre identifizierten Probleme erhalten, um Sie auf ihrem Weg zur Fragestellung /Forschungsfrage zu stärken und Sie ggf. beim Nachjustieren zu unterstützen. Formulieren Sie daher zusätzlich etwa einen Auftrag für das Peer-Feedback und stellen Sie dazu eine LMS-Funktion (z.B. Forum, oder (Projekt-)Wiki) bereit. (Alternativ:  Hierfür können SIe einen Auftrag für ein Peer-Feedback formulieren und dazu eine LMS-Funktion (z.B. Forum, Wiki) bereitstellen.)
 
-(Glühbirne)) Ein Wiki könnte dahingehend umfunktioniert werden, dass es auch als regelmäßiges Dokumentations- und Feedbackinstrument dient.
+💡 Ein Wiki könnte dahingehend umfunktioniert werden, dass es auch als regelmäßiges Dokumentations- und Feedbackinstrument dient.
 
 <!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>
