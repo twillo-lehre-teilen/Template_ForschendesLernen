@@ -49,7 +49,7 @@ Das didaktische Template basiert auf der idealtypischen Anordnung der acht Phase
 
 
 ## Phase 0: Vorbereitung und Ankündigung/Kursinformation
-
+<p >
 **Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
 
 Ziel der Vorbereitungsphase ist, den Studierenden einen thematischen Einstieg in die Lehr-Lerneinheit zu geben und sie auf den selbstgesteuerten Lernprozess innerhalb des Forschenden Lernens vorzubereiten. Forschendes Lernen kann nur gelingen, wenn Studierende eigenverantwortlich an Ihren Fragestellungen arbeiten. Stellen Sie Ihren aktiven Part klar heraus und machen Sie gleichzeitig Ihre eigene Rolle als Begleitung des Forschungsprozesses deutlich.
@@ -79,10 +79,10 @@ Machen Sie durch die Bereitstellung von Informationen oder Hilfsmitteln transpar
 - Laden Sie eine Datei hoch mit den Gestaltungskriterien für die Erstellung von wissenschaftlichen Poster ([Vorlage docx-Format](https://github.com/pilotta314/LiaScript_ForschendesLernen/blob/master/docs/chapter_0/Gestaltungskriterien%20Wissenschaftliches%20Poster.docx); [Vorlage pdf-Format](https://github.com/pilotta314/LiaScript_ForschendesLernen/blob/master/docs/chapter_0/Gestaltungskriterien%20Wissenschaftliches%20Poster.pdf))
 - Laden Sie zur Orientierung ggf. eine Vorlage hoch([Postervorlage_A2 odp-Format](https://github.com/pilotta314/LiaScript_ForschendesLernen/blob/master/docs/chapter_0/Postervorlage_A2.odp); [Postervorlage_A2 pptx-Format](https://github.com/pilotta314/LiaScript_ForschendesLernen/blob/master/docs/chapter_0/Postervorlage_A2.pptx))
 - Laden Sie zur Orientierung ein Best Practice-Beispiel hoch. Klären Sie ggf. mit Studierenden vorheriger Semester ab, ob Sie die Ergebnisse als Best Practice-Beispiele nutzen dürfen.
-
+</p>
 
 ## Phase 1: Problem wahrnehmen
-
+<p>
 **Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
 
 **Lernziel**
@@ -116,6 +116,7 @@ Folgende Aufgaben können Sie in das WebQuest integrieren:
 Die Vortragenden sollten in jedem Fall eine Rückmeldung über ihre identifizierten Probleme erhalten, um Sie auf ihrem Weg zur Fragestellung /Forschungsfrage zu stärken und Sie ggf. beim Nachjustieren zu unterstützen. Formulieren Sie daher zusätzlich etwa einen Auftrag für das Peer-Feedback und stellen Sie dazu eine LMS-Funktion (z.B. Forum, oder (Projekt-)Wiki) bereit. (Alternativ:  Hierfür können SIe einen Auftrag für ein Peer-Feedback formulieren und dazu eine LMS-Funktion (z.B. Forum, Wiki) bereitstellen.)
 
 💡 Ein Wiki könnte dahingehend umfunktioniert werden, dass es auch als regelmäßiges Dokumentations- und Feedbackinstrument dient.
+</p>
 
 <!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>
@@ -151,7 +152,7 @@ Sie erhalten bei der Vorstellung ihres identifizierten Problems Feedback aus dem
 </div>
 
 ## Phase 2: Finden einer Fragestellung
-
+<p >
 **Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
 
 **Lernziel**
@@ -182,6 +183,7 @@ Bieten Sie Termine für Rückbesprechungen an. Als Vorbereitung für die Besprec
 
 - Stellen Sie z.B. eine Checkliste zur Formulierung einer Forschungsfrage bereit
 - Schauen Sie im LMS nach geeigneten interaktiven Elementen und setzen Sie sie ggf. ein (z.B. Foren)
+</p>
 
 <!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>
@@ -204,7 +206,7 @@ Bieten Sie Termine für Rückbesprechungen an. Als Vorbereitung für die Besprec
 </div>
 
 ## Phase 3: Erarbeiten von Informationen und theoretischen Zugängen
-
+<p >
 **Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
 
 **Lernziel**
@@ -230,6 +232,7 @@ Formulieren Sie Arbeitsaufträge, z. B. Studierende sollen am Ende der Phase ein
 **Hilfestellungen**
 
 Am Ende dieser Phase sollte der konkrete Gegenstand der Forschungsfrage theoretisch beleuchtet sein. Bieten Sie auch hier Räume an, in denen die Studierende in den Austausch kommen. Als Begleitperson des Prozesses ist es wichtig, einen Überblick über den aktuellen Stand der jeweiligen Studierenden bzw. Gruppe zu erhalten, um ggf. weitere Impulse zu geben.
+</p>
 
 <!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>
@@ -256,7 +259,7 @@ Am Ende dieser Phase sollte der konkrete Gegenstand der Forschungsfrage theoreti
 </div>
 
 ## Phase 4: Auswahl und Aneignung von Methoden
-
+<p >
 **Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
 
 **Lernziel**
@@ -282,6 +285,7 @@ Um die Sichtbarkeit der Projekte in der Veranstaltung zu erhöhen, können Sie e
 **Hilfestellungen**
 
 Am Ende können Studierende begründen, warum gerade diese Methode bzw. dieses wissenschaftliche Vorgehen für ihre Forschungsfrage geeignet scheint. Peer to Peer Ansätze können dabei helfen, wichtige Fragen zum vorgestellten Forschungsvorhaben zu stellen und ggf. Vorgehen zu diskutieren. Die lehrende Person moderiert den Prozess.
+</p>
 
 <!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>
@@ -305,7 +309,7 @@ Am Ende können Studierende begründen, warum gerade diese Methode bzw. dieses w
 </div>
 
 ## Phase 5: Entwicklung eines Forschungsdesigns
-
+<p >
 **Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
 
 **Lernziel**
@@ -333,6 +337,7 @@ Formulieren Sie konkrete Arbeitsaufträge und holen Sie sich die Ergebnisse ein.
 Am Ende dieser Phase können Studierende vorbereitet in die forschende Tätigkeitkeit übergehen. Bei Projekten mit empirischen Forschungsmethoden müssen in dieser Phase die Erhebungsinstrumente besprochen und ggf. erprobt werden. Hierfür können Kleingruppen gebildet werden. Falls Ihre Hochschule eine Methodenberatung anbietet, können Sie die Studierenden auf die weitere Unterstützungsmöglichkeit hinweisen.
 
 Um die einzelnen Eckdaten sowie Vorbereitungsschritte von der Datenerhebung bis zur Auswertung zu organisieren, empfiehlt es sich einen -mehr oder weniger detaillierten- Zeit- und Arbeitsplan zu erstellen. Hier kann ein einziger Plan für alle Arbeitsschritte erstellt werden. Dieser Plan kann in der **Phase 3 Auswahl und Aneignung von Methoden** bereits als grobes Orientierungsraster angelegt und schrittweise weiterentwickelt oder angepasst werden. Die Übersicht sollte aber am Ende von **Phase 5 Entwicklung eines Forschungsdesigns** detailliert vorliegen, um klar zu haben, welche Aufgaben bis zur Datenerhebung (ggf. von wem) abgeschlossen werden sollten.
+</p>
 
 <!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>
@@ -362,7 +367,7 @@ Um die einzelnen Eckdaten sowie Vorbereitungsschritte von der Datenerhebung bis 
 </div>
 
 ## Phase 6: Durchführung der forschenden Tätigkeit
-
+<p >
 **Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
 
 **Lernziel**
@@ -388,6 +393,7 @@ Methodisch bietet sich in dieser Phase für den Austausch zu Zwischenergebnissen
 **Hilfestellungen**
 
 In dieser Forschungsphase kommen regelmäßigen Sprechstundenangeboten eine besonders große Bedeutung zu.
+</p>
 
 <!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>
@@ -402,7 +408,7 @@ In dieser Forschungsphase kommen regelmäßigen Sprechstundenangeboten eine beso
 </div>
 
 ## Phase 7: Erarbeitung und Präsentation der Ergebnisse
-
+<p >
 **Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
 
 **Lernziel**
@@ -424,6 +430,7 @@ Methodisch bietet sich in dieser Phase eine offene Posterpräsentation an. Poste
 **Hilfestellungen**
 
 Verweisen Sie noch einmal auf die Hilfestellungen z.B. Gestaltungskritrien von wissenschaftlichen Poster oder auf die Postervorlage.
+</p>
 
 <!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>
@@ -438,7 +445,7 @@ Verweisen Sie noch einmal auf die Hilfestellungen z.B. Gestaltungskritrien von w
 </div>
 
 ## Phase 8: Reflexion des gesamten Prozesses
-
+<p >
 **Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
 
 **Lernziel**
@@ -462,6 +469,7 @@ Methodisch bietet sich in dieser Phase z.B. eine Auswertungszielscheibe an (sieh
 **Hilfestellungen**
 
 Sollte ein Forschungsprojekt vermeintlich gescheitert sein, regen Sie zur Reflexion an: Was sind Gründe für fehlende Daten? Passte die Erhebungsmethode vielleicht nicht zur Auswertungsmethode? Ganz gleich, wie es zum Abbruch oder zur Nicht-Fertigstellung gekommen ist, sollte darauf hingewiesen werden, dass auch in Forschungsprojekten außerhalb des Studiums Fehler, falsche Annahmen und Scheitern immer möglich sind und letztlich Ausgangspunkte für neue Fragen oder Herangehensweisen sein können.
+</p>
 
 <!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>
