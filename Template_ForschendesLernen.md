@@ -1,5 +1,7 @@
 <!--
 p {
+  font-color: green;
+  color: red;
   display:none;
   /* display:none; */
 }
