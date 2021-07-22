@@ -1,6 +1,4 @@
-<!--
-link: https://cdn.jsdelivr.net/gh/pilotta314/LiaScript_ForschendesLernen/style.css
--->
+
 
 # Template - Forschendes Lernen
 
