@@ -58,7 +58,7 @@ Die "Regianweisungen" in dieser Kursvorlage geben Ihnen wichtige Informationen d
 3. Prüfen Sie nach dem Import, ob die Strukturen und Inhalte der Vorlage korrekt vorhanden sind.
 4. Zum generieren des Kurses besuchen Sie die [LiaScript-Website]( https://liascript.github.io/). Fügen Sie hier die URL zur **Kursdatei (.md)** innerhalb des Repositories ein und klicken Sie auf **"Load Course"**. Ihr Kurs ist jetzt erstellt und erreichbar über der von LiaScript generierten URL.
 5. Nun können Sie innerhalb der Markdown-Datei (.md) die Inhalte jeder einzelnen Phase anpassen oder ergänzen. Alle Veränderungen werden dabei automatisch von LiaScript übernommen (Dies kann allerdings einige Minuten dauern). Um das Bearbeiten und Verändern des Kurses zu vereinfachen empfehlen wir Ihnen die Nutzung des **Texteditor Atom** in Verbindung mit dem **LiaScript Plugin** "liascript-preview"
-6. Denken Sie daran, die Regieanweisungen entweder zu löschen oder unsichtbar zu machen. [...]
+6. Denken Sie daran, die Regieanweisungen entweder zu löschen oder unsichtbar zu machen. Das Template ist so konzipiert, dass die Regieanweisungen für Lehrende nur für die Kursersteller:innen innerhalb von GitHub oder Atom sichtbar sind. Innerhalb des Liascript Kurses sind die Regieanweisungen nicht zu sehen. Deshalb überprüfen Sie vor der Freigabe des Kurses, ob diese Voreinstellung weiterhin Bestand hat.
 
 ## Phase 0: Vorbereitung und Ankündigung/Kursinformation
 <!-- style="display:none" -->
