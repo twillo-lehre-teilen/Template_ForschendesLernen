@@ -1,10 +1,5 @@
 <!--
-p {
-  font-color: green;
-  color: red;
-  display:none;
-  /* display:none; */
-}
+link: https://github.com/pilotta314/LiaScript_ForschendesLernen/style.css
 -->
 
 # Template - Forschendes Lernen
