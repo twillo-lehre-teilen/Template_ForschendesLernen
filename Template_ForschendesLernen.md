@@ -1,3 +1,10 @@
+<!--
+p {
+  display:block;
+  /* display:none; */
+}
+-->
+
 # Template - Forschendes Lernen
 
 - [Informationen für Lehrende](#2)
@@ -43,13 +50,21 @@ Das didaktische Template basiert auf der idealtypischen Anordnung der acht Phase
 *HRK (Hrsg.) (2015): Forschendes Lernen. In: Nexus impulse für die Praxis, H. 8. Online verfügbar unter https://www.hrk-nexus.de/fileadmin/redaktion/hrk-nexus/07-Downloads/07-02-Publikationen/impuls_Forschendes_Lernen.pdf*
 
 ---
-** Hinweise zur Nutzung des Templates **
+**Hinweise zur Nutzung des Templates**
 
-[...]
+Die hier bereitgestellte Vorlage bildet die acht Phasen des idealtypischen Ablaufs Forschenden Lernens nach Huber in acht Einheiten ab (vgl. Huber 2014) und dient als Grundlage für die Ausgestaltung des individuellen Lehrszenarios. In jeder Phase können inhaltliche Schwerpunkte sowie didaktisch-methodisches Vorgehen festgehalten und Lehrmaterialien hinterlegt sowie interaktive Elemente des Lernmanagementsystem eingebunden werden.
 
+Die Vorlage kann nach Bedarf angepasst werden, indem die einzelnen Phasen neu angeordnet, Teile ausgeblendet oder gelöscht werden. Die Regieanweisungen geben lediglich eine exemplarische Ausgestaltung eines möglichen Lehrszenarios.
+
+Die "Regianweisungen" in dieser Kursvorlage geben Ihnen wichtige Informationen darüber, was Sie in der jeweiligen Lerneinheit beachten müssen und welche Inhalte Sie diesem Template bei einer Nachnutzung hinzufügen sollten.
+
+**Schritte für eine Nachnutzung:**
+
+1. ...
+2. ...
 
 ## Phase 0: Vorbereitung und Ankündigung/Kursinformation
-<p >
+<p>
 **Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
 
 Ziel der Vorbereitungsphase ist, den Studierenden einen thematischen Einstieg in die Lehr-Lerneinheit zu geben und sie auf den selbstgesteuerten Lernprozess innerhalb des Forschenden Lernens vorzubereiten. Forschendes Lernen kann nur gelingen, wenn Studierende eigenverantwortlich an Ihren Fragestellungen arbeiten. Stellen Sie Ihren aktiven Part klar heraus und machen Sie gleichzeitig Ihre eigene Rolle als Begleitung des Forschungsprozesses deutlich.
@@ -152,7 +167,7 @@ Sie erhalten bei der Vorstellung ihres identifizierten Problems Feedback aus dem
 </div>
 
 ## Phase 2: Finden einer Fragestellung
-<p >
+<p>
 **Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
 
 **Lernziel**
@@ -206,7 +221,7 @@ Bieten Sie Termine für Rückbesprechungen an. Als Vorbereitung für die Besprec
 </div>
 
 ## Phase 3: Erarbeiten von Informationen und theoretischen Zugängen
-<p >
+<p>
 **Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
 
 **Lernziel**
@@ -309,7 +324,7 @@ Am Ende können Studierende begründen, warum gerade diese Methode bzw. dieses w
 </div>
 
 ## Phase 5: Entwicklung eines Forschungsdesigns
-<p >
+<p>
 **Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
 
 **Lernziel**
@@ -367,7 +382,7 @@ Um die einzelnen Eckdaten sowie Vorbereitungsschritte von der Datenerhebung bis 
 </div>
 
 ## Phase 6: Durchführung der forschenden Tätigkeit
-<p >
+<p>
 **Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
 
 **Lernziel**
@@ -408,7 +423,7 @@ In dieser Forschungsphase kommen regelmäßigen Sprechstundenangeboten eine beso
 </div>
 
 ## Phase 7: Erarbeitung und Präsentation der Ergebnisse
-<p >
+<p>
 **Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
 
 **Lernziel**
@@ -445,7 +460,7 @@ Verweisen Sie noch einmal auf die Hilfestellungen z.B. Gestaltungskritrien von w
 </div>
 
 ## Phase 8: Reflexion des gesamten Prozesses
-<p >
+<p>
 **Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
 
 **Lernziel**
