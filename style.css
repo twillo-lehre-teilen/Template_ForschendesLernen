@@ -1,4 +1,13 @@
+/*
+  Um die Sichtbarkeit der Regieanweisungen zu verändern müssen Sie das "display" Attribute der "p-tags" verändern.
+  Ändern Sie dafür entweder manuell den Wert des "display" Attributs oder kommentieren Sie die gewünschte Variante aus.
+  - "display: block" bedeutet die Regieanweisungen sind für jederman sichtbar.
+  - "display: none" bedeutet die Regieanweisungen sind unsichtbar.
+*/
 p {
-  /* display: block */
-  display: none;
+  display: block;
+  /* display: none; */
+}
+div {
+  display: block; 
 }
