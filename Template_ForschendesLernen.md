@@ -1,6 +1,6 @@
 <!--
 p {
-  display:block;
+  display:none;
   /* display:none; */
 }
 -->
