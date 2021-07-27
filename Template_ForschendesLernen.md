@@ -95,8 +95,8 @@ Machen Sie durch die Bereitstellung von Informationen oder Hilfsmitteln transpar
 </p>
 
 ## Phase 1: Problem wahrnehmen
-<!-- style="display:none" -->
-<p>
+
+<p hidden>
 **Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
 
 **Lernziel**
