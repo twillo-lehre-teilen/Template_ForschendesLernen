@@ -70,7 +70,7 @@ Die "Regianweisungen" in dieser Kursvorlage geben Ihnen wichtige Informationen d
 6. Denken Sie daran, die Regieanweisungen entweder zu löschen oder unsichtbar zu machen. Das Template ist so konzipiert, dass die Regieanweisungen für Lehrende nur für die Kursersteller:innen innerhalb von GitHub oder Atom sichtbar sind. Innerhalb des Liascript Kurses sind die Regieanweisungen nicht zu sehen. Deshalb überprüfen Sie vor der Freigabe des Kurses, ob diese Voreinstellung weiterhin Bestand hat.
 
 ## Phase 0: Vorbereitung und Ankündigung/Kursinformation
-<p hidden>
+<p>
 **Regieanweisungen für Lehrende**
 
 Ziel der Vorbereitungsphase ist, den Studierenden einen thematischen Einstieg in die Lehr-Lerneinheit zu geben und sie auf den selbstgesteuerten Lernprozess innerhalb des Forschenden Lernens vorzubereiten. Forschendes Lernen kann nur gelingen, wenn Studierende eigenverantwortlich an Ihren Fragestellungen arbeiten. Stellen Sie Ihren aktiven Part klar heraus und machen Sie gleichzeitig Ihre eigene Rolle als Begleitung des Forschungsprozesses deutlich.
