@@ -61,7 +61,6 @@ Die "Regianweisungen" in dieser Kursvorlage geben Ihnen wichtige Informationen d
 6. Denken Sie daran, die Regieanweisungen entweder zu löschen oder unsichtbar zu machen. Das Template ist so konzipiert, dass die Regieanweisungen für Lehrende nur für die Kursersteller:innen innerhalb von GitHub oder Atom sichtbar sind. Innerhalb des Liascript Kurses sind die Regieanweisungen nicht zu sehen. Deshalb überprüfen Sie vor der Freigabe des Kurses, ob diese Voreinstellung weiterhin Bestand hat.
 
 ## Phase 0: Vorbereitung und Ankündigung/Kursinformation
-<!-- style="display:none" -->
 <p>
 **Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
 
@@ -95,7 +94,6 @@ Machen Sie durch die Bereitstellung von Informationen oder Hilfsmitteln transpar
 </p>
 
 ## Phase 1: Problem wahrnehmen
-
 <p>
 **Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
 
@@ -166,7 +164,6 @@ Sie erhalten bei der Vorstellung ihres identifizierten Problems Feedback aus dem
 </div>
 
 ## Phase 2: Finden einer Fragestellung
-<!-- style="display:none" -->
 <p>
 **Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
 
@@ -221,7 +218,6 @@ Bieten Sie Termine für Rückbesprechungen an. Als Vorbereitung für die Besprec
 </div>
 
 ## Phase 3: Erarbeiten von Informationen und theoretischen Zugängen
-<!-- style="display:none" -->
 <p>
 **Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
 
@@ -326,7 +322,6 @@ Am Ende können Studierende begründen, warum gerade diese Methode bzw. dieses w
 </div>
 
 ## Phase 5: Entwicklung eines Forschungsdesigns
-<!-- style="display:none" -->
 <p>
 **Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
 
@@ -385,7 +380,6 @@ Um die einzelnen Eckdaten sowie Vorbereitungsschritte von der Datenerhebung bis 
 </div>
 
 ## Phase 6: Durchführung der forschenden Tätigkeit
-<!-- style="display:none" -->
 <p>
 **Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
 
@@ -427,7 +421,6 @@ In dieser Forschungsphase kommen regelmäßigen Sprechstundenangeboten eine beso
 </div>
 
 ## Phase 7: Erarbeitung und Präsentation der Ergebnisse
-<!-- style="display:none" -->
 <p>
 **Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
 
@@ -465,7 +458,6 @@ Verweisen Sie noch einmal auf die Hilfestellungen z.B. Gestaltungskritrien von w
 </div>
 
 ## Phase 8: Reflexion des gesamten Prozesses
-<!-- style="display:none" -->
 <p>
 **Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
 
