@@ -196,7 +196,7 @@ Bei Strukturierungsgrad b und c können die Studierenden anhand der bereitgestel
 
 Stellen Sie auch für diese Phase geeignete Materialien bereit, die den Prozess des Findens einer Fragestellung unterstützen. Das können fachlich ausgerichtete Materialien (z.B. ein Foliensatz) oder methodische bzw. didaktische Materialien zum Thema Finden einer Fragestellung sein.
 
-Methodisch bietet sich in dieser Phase z.B. das Clustering von Fragen und Interessenfeldern an (siehe ~~Methodenglossar~~). Für die digitale Umsetzung eignet sich das kostenlose Tool [Conceptboard](https://conceptboard.com/de/), das Sie im Bereich Materialien verlinken können. Vorgeschaltet können Sie die Ideenfindung mit der Kopfstandmethode über negative Fragen unterstützen: Was steht nicht in Frage? Was weckt nicht Ihr Interesse?
+Methodisch bietet sich in dieser Phase z.B. das Clustering von Fragen und Interessenfeldern an (siehe [Methodenglossar](https://twillo-lehre-teilen.github.io/Methodenglossar/#/)). Für die digitale Umsetzung eignet sich das kostenlose Tool [Conceptboard](https://conceptboard.com/de/), das Sie im Bereich Materialien verlinken können. Vorgeschaltet können Sie die Ideenfindung mit der Kopfstandmethode über negative Fragen unterstützen: Was steht nicht in Frage? Was weckt nicht Ihr Interesse?
 
 **Hilfestellungen**
 
@@ -248,7 +248,7 @@ Je nach Rahmenbedingungen können Sie zwischen einem der hier aufgeführten Stru
 
 Je nach ausgewähltem Strukturierungsgrad stellen Sie auch für diese Phase geeignete Materialien bereit, die den Prozess der Erarbeitung von Grundlagen und theoretischen Zugängen unterstützen. Relevante Theorien und Informationen können in Form von Foliensätzen oder in Form von Literaturlisten bereitgestellt werden. Geben Sie bei Rechercheaufträgen aufgabengeleitete Orientierungshilfen.
 
-Methodisch bietet sich in dieser Phase z.B. ein Gruppenpuzzle (Jigsaw-Methode) an (siehe ~~Methodenglossar~~).
+Methodisch bietet sich in dieser Phase z.B. ein Gruppenpuzzle (Jigsaw-Methode) an (siehe [Methodenglossar](https://twillo-lehre-teilen.github.io/Methodenglossar/#/)).
 
 Formulieren Sie Arbeitsaufträge, z. B. Studierende sollen am Ende der Phase eine kommentierte Literaturliste vorstellen. Sie sollen für jede bibliographische Angabe notieren, für welchen Zweck diese verwendet wird: Definition, Begriffsbestimmung, Merkmale, Dimensionen, Position, Diskussion etc.
 
@@ -301,9 +301,9 @@ Je nach Rahmenbedingungen können Sie zwischen einem der hier aufgeführten Stru
 
 Je nach ausgewähltem Strukturierungsgrad stellen Sie auch für diese Phase geeignete Materialien bereit. Die Studierenden sollten sich zunächst durch die Vermittlung des Lehrenden oder durch die Bereitstellung von Literatur relevantes methodisches Wissen aneigenen können. Bei entsprechendem Wissensstand können auch andere Studierende diese Aufgabe übernehmen oder unterstützen. Wichtig ist hier die eigenständige Textarbeit anzusprechen.
 
-Methodisch bietet sich in dieser Phase z.B. eine Fishbowl-Diskussion (siehe ~~Methodenglossar~~) an. Formulieren Sie ganz konkrete Arbeitsaufträge und holen Sie sich die Ergebnisse ein bzw. lassen Sie die Ergebnisse im Lernmanagementsystem hochladen.
+Methodisch bietet sich in dieser Phase z.B. eine Fishbowl-Diskussion (siehe [Methodenglossar](https://twillo-lehre-teilen.github.io/Methodenglossar/#/)) an. Formulieren Sie ganz konkrete Arbeitsaufträge und holen Sie sich die Ergebnisse ein bzw. lassen Sie die Ergebnisse im Lernmanagementsystem hochladen.
 
-Um die Sichtbarkeit der Projekte in der Veranstaltung zu erhöhen, können Sie einen Elevator Pitch (siehe ~~Methodenglossar~~) der einzelnen Forschungsprojekte initiieren, Mithilfe eines kurzen Leitfadens können sich die Studierende am Ende der Phase 4 strukturiert auf einen Pitch im Plenum vorbereiten. Überlegen Sie, welche Informationen zu den Projekten in 5 Minuten gegeben werden sollen.
+Um die Sichtbarkeit der Projekte in der Veranstaltung zu erhöhen, können Sie einen Elevator Pitch (siehe [Methodenglossar](https://twillo-lehre-teilen.github.io/Methodenglossar/#/)) der einzelnen Forschungsprojekte initiieren, Mithilfe eines kurzen Leitfadens können sich die Studierende am Ende der Phase 4 strukturiert auf einen Pitch im Plenum vorbereiten. Überlegen Sie, welche Informationen zu den Projekten in 5 Minuten gegeben werden sollen.
 
 **Hilfestellungen**
 
@@ -351,7 +351,7 @@ In einem ersten Schritt entwickeln die Studierenden ihr Forschungsdesign, auf da
 
 **Methoden & Materialien**
 
-Methodisch bietet sich in dieser Phase z.B. ein Reality Check (siehe ~~Methodenglossar~~) an. Mithilfe gezielter Leitfragen können Studierende ihr Vorhaben kritisch hinterfragen und mithilfe eines Gruppenfeedbacks oder im Rahmen einer Sprechstunde nachjustieren.
+Methodisch bietet sich in dieser Phase z.B. ein Reality Check (siehe [Methodenglossar](https://twillo-lehre-teilen.github.io/Methodenglossar/#/)) an. Mithilfe gezielter Leitfragen können Studierende ihr Vorhaben kritisch hinterfragen und mithilfe eines Gruppenfeedbacks oder im Rahmen einer Sprechstunde nachjustieren.
 
 Formulieren Sie konkrete Arbeitsaufträge und holen Sie sich die Ergebnisse ein. Das in dieser Phase erarbeitete Teilergebnis könnte ein Element der Studien- oder Prüfungsleistung sein oder als Vorbereitung für diese dienen. Bei der Erstellung eines wissenschaftlichen Posters könnten die Aspekte Relevanz, Fragestellung und Hypothesen, Methoden und Materialien in der Form eines Steckbriefs abgefragt werden.
 
@@ -411,7 +411,7 @@ Die Erprobung der spezifischen Methoden sollte vor allem in kleineren Gruppen er
 
 **Methoden & Materialien**
 
-Methodisch bietet sich in dieser Phase für den Austausch zu Zwischenergebnissen der Gallery-Walk an (siehe ~~Methodenglossar~~). Je nach Arbeitsstand und Bedarf können die Studierenden an einem oder mehreren angebotenen oder festgelegten Terminen ihre Zwischenergebnisse präsentieren und diskutieren lassen.
+Methodisch bietet sich in dieser Phase für den Austausch zu Zwischenergebnissen der Gallery-Walk an (siehe [Methodenglossar](https://twillo-lehre-teilen.github.io/Methodenglossar/#/)). Je nach Arbeitsstand und Bedarf können die Studierenden an einem oder mehreren angebotenen oder festgelegten Terminen ihre Zwischenergebnisse präsentieren und diskutieren lassen.
 
 **Hilfestellungen**
 
@@ -448,7 +448,7 @@ Unter der Berücksichtigung der vorherrschenden Rahmenbedingungen können Sie zw
 
 **Methoden & Materialien**
 
-Methodisch bietet sich in dieser Phase eine offene Posterpräsentation an. Postersession im Rahmen der Lerhveranstaltung, Fachtag im Fachbereich oder die Möglichkeit die wissenschaftlichen Poster auf themenspezifische Fachkonferenzen zu präsentieren (Gallery Walk). Weitere geeignete Methoden können Sie unserem ~~Methodenglossar~~ entnehmen.
+Methodisch bietet sich in dieser Phase eine offene Posterpräsentation an. Postersession im Rahmen der Lerhveranstaltung, Fachtag im Fachbereich oder die Möglichkeit die wissenschaftlichen Poster auf themenspezifische Fachkonferenzen zu präsentieren (Gallery Walk). Weitere geeignete Methoden können Sie unserem [Methodenglossar](https://twillo-lehre-teilen.github.io/Methodenglossar/#/) entnehmen.
 
 **Hilfestellungen**
 
@@ -487,7 +487,7 @@ Abschließend können die Studierenden sowohl den Forschungsprozess wie auch ihr
 
 **Methoden & Materialien**
 
-Methodisch bietet sich in dieser Phase z.B. eine Auswertungszielscheibe an (siehe ~~Methodenglossar~~).
+Methodisch bietet sich in dieser Phase z.B. eine Auswertungszielscheibe an (siehe [Methodenglossar](https://twillo-lehre-teilen.github.io/Methodenglossar/#/)).
 
 **Hilfestellungen**
 
