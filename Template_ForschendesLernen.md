@@ -96,7 +96,7 @@ Machen Sie durch die Bereitstellung von Informationen oder Hilfsmitteln transpar
 
 ## Phase 1: Problem wahrnehmen
 
-<p hidden>
+<p>
 **Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
 
 **Lernziel**
@@ -276,7 +276,7 @@ Am Ende dieser Phase sollte der konkrete Gegenstand der Forschungsfrage theoreti
 
 ## Phase 4: Auswahl und Aneignung von Methoden
 <!-- style="display:none" -->
-<p>
+<p hidden>
 **Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
 
 **Lernziel**
