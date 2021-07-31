@@ -70,8 +70,8 @@ Die "Regianweisungen" in dieser Kursvorlage geben Ihnen wichtige Informationen d
 6. Denken Sie daran, die Regieanweisungen entweder zu löschen oder unsichtbar zu machen. Das Template ist so konzipiert, dass die Regieanweisungen für Lehrende nur für die Kursersteller:innen innerhalb von GitHub oder Atom sichtbar sind. Innerhalb des Liascript Kurses sind die Regieanweisungen nicht zu sehen. Deshalb überprüfen Sie vor der Freigabe des Kurses, ob diese Voreinstellung weiterhin Bestand hat.
 
 ## Phase 0: Vorbereitung und Ankündigung/Kursinformation
-<p>
-**Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
+<p hidden>
+**Regieanweisungen für Lehrende**
 
 Ziel der Vorbereitungsphase ist, den Studierenden einen thematischen Einstieg in die Lehr-Lerneinheit zu geben und sie auf den selbstgesteuerten Lernprozess innerhalb des Forschenden Lernens vorzubereiten. Forschendes Lernen kann nur gelingen, wenn Studierende eigenverantwortlich an Ihren Fragestellungen arbeiten. Stellen Sie Ihren aktiven Part klar heraus und machen Sie gleichzeitig Ihre eigene Rolle als Begleitung des Forschungsprozesses deutlich.
 
@@ -104,7 +104,7 @@ Machen Sie durch die Bereitstellung von Informationen oder Hilfsmitteln transpar
 
 ## Phase 1: Problem wahrnehmen
 <p>
-**Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
+**Regieanweisungen für Lehrende**
 
 **Lernziel**
 
@@ -174,7 +174,7 @@ Sie erhalten bei der Vorstellung ihres identifizierten Problems Feedback aus dem
 
 ## Phase 2: Finden einer Fragestellung
 <p>
-**Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
+**Regieanweisungen für Lehrende**
 
 **Lernziel**
 
@@ -228,7 +228,7 @@ Bieten Sie Termine für Rückbesprechungen an. Als Vorbereitung für die Besprec
 
 ## Phase 3: Erarbeiten von Informationen und theoretischen Zugängen
 <p>
-**Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
+**Regieanweisungen für Lehrende**
 
 **Lernziel**
 
@@ -281,7 +281,7 @@ Am Ende dieser Phase sollte der konkrete Gegenstand der Forschungsfrage theoreti
 
 ## Phase 4: Auswahl und Aneignung von Methoden
 <p>
-**Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
+**Regieanweisungen für Lehrende**
 
 **Lernziel**
 
@@ -331,7 +331,7 @@ Am Ende können Studierende begründen, warum gerade diese Methode bzw. dieses w
 
 ## Phase 5: Entwicklung eines Forschungsdesigns
 <p>
-**Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
+**Regieanweisungen für Lehrende**
 
 **Lernziel**
 
@@ -389,7 +389,7 @@ Um die einzelnen Eckdaten sowie Vorbereitungsschritte von der Datenerhebung bis 
 
 ## Phase 6: Durchführung der forschenden Tätigkeit
 <p>
-**Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
+**Regieanweisungen für Lehrende**
 
 **Lernziel**
 
@@ -430,7 +430,7 @@ In dieser Forschungsphase kommen regelmäßigen Sprechstundenangeboten eine beso
 
 ## Phase 7: Erarbeitung und Präsentation der Ergebnisse
 <p>
-**Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
+**Regieanweisungen für Lehrende**
 
 **Lernziel**
 
@@ -467,7 +467,7 @@ Verweisen Sie noch einmal auf die Hilfestellungen z.B. Gestaltungskritrien von w
 
 ## Phase 8: Reflexion des gesamten Prozesses
 <p>
-**Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
+**Regieanweisungen für Lehrende**
 
 **Lernziel**
 
