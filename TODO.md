@@ -1,2 +1,0 @@
-- Symbole (Achtung, Glühbirne, ...) einfügen
-- Dateien momentan nur bei GitHub hinterlegt und verlinkt -> mgl. die auch direkt einzufügen?
