@@ -271,7 +271,7 @@ Am Ende dieser Phase sollte der konkrete Gegenstand der Forschungsfrage theoreti
 </div>
 
 ## Phase 4: Auswahl und Aneignung von Methoden
-<p hidden>
+<p>
 **Regieanweisungen für Lehrende** (nur für Lehrende sichtbar)
 
 **Lernziel**
