@@ -80,9 +80,7 @@ Die "Regianweisungen" in dieser Kursvorlage geben Ihnen wichtige Informationen d
   </li>
   <li>
     Denken Sie daran, die Regieanweisungen entweder zu löschen oder unsichtbar zu machen. Das Template ist so konzipiert, dass die Regieanweisungen für Lehrende innerhalb des LiaScript Kurses zunächst für jeden sichtbar sind. Möchten Sie dies ändern, sodass die Regieanweisungen innerhalb des LiaScript Kurses für jeden unsichtbar sind, so müssen Sie die Sichtbarkeit der Regieanweisungen in jeder Phase des Lernmoduls in der Kursdatei (.md) anpassen. Die Regieanweisungen finden Sie zu Beginn jeder Lernmodul Phase, sie sind jeweils umklammert von HTML p-tags. Um die Regieanweisungen unsichtbar zu machen muss das Wort "**hidden**" dem vorangehenden p-tag hinzugefügt werden. Der folgende Screenshot zeigt wie dies innerhalb der Kursdatei (.md) aussehen würde.
-    <center>
-      ![Sichtbarkeit von Regieanweisungen](docs/visibilityMarked.png)
-    </center>
+    ![Sichtbarkeit von Regieanweisungen](docs/visibilityMarked.png)<!-- style = "text-align:center;" -->
     Überprüfen Sie vor der Freigabe des Kurses, ob die Sichtbarkeit in allen Phasen entsprechend Ihren wünschen eingestellt ist.
   </li>
 </ol>
