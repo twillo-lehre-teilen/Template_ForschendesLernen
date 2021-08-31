@@ -73,6 +73,7 @@ Die "Regianweisungen" in dieser Kursvorlage geben Ihnen wichtige Informationen d
 ![Sichtbarkeit von Regieanweisungen](docs/visibility.svg)<!-- style = "text-align:center;" -->
 
 ## Phase 0: Vorbereitung und Ankündigung/Kursinformation
+<!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
 **Regieanweisungen für Lehrende**
 
