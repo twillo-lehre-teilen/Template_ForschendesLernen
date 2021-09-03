@@ -9,6 +9,14 @@
 
 # Template - Forschendes Lernen
 
+<!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
+<div>**Lizenzhinweis**
+
+
+![CC 0 (1.0) Icon](docs/CC_0_ICON.svg)<!-- style = "text-align:center;" -->
+Die didaktische Vorlage Forschendes Lernen von [twillo](https://twillo.de/) ist lizenziert unter der [Lizenz CC 0 (1.0)](https://creativecommons.org/publicdomain/zero/1.0/legalcode). Ausgenommen von der Lizenz sind die verwendeten Screenshots sowie anders gekennzeichnete Elemente.
+</div>
+
 - [Informationen für Lehrende](#2)
 
   - [Was ist Forschendes Lernen](#2)
