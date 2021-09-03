@@ -74,7 +74,7 @@ Die "Regianweisungen" in dieser Kursvorlage geben Ihnen wichtige Informationen d
 
 ## Phase 0: Vorbereitung und Ankündigung/Kursinformation
 
-![Advance Organizer für Forschendes Lernen](docs/AdvanceOrganizerForschendesLernen)
+![Advance Organizer für Forschendes Lernen](docs/AdvanceOrganizerForschendesLernen.svg)
 
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
