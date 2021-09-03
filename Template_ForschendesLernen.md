@@ -73,6 +73,9 @@ Die "Regianweisungen" in dieser Kursvorlage geben Ihnen wichtige Informationen d
 ![Sichtbarkeit von Regieanweisungen](docs/visibility.svg)<!-- style = "text-align:center;" -->
 
 ## Phase 0: Vorbereitung und Ankündigung/Kursinformation
+
+![Advance Organizer für Forschendes Lernen](docs/AdvanceOrganizerForschendesLernen)
+
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
 **Regieanweisungen für Lehrende**
@@ -266,7 +269,7 @@ Am Ende dieser Phase sollte der konkrete Gegenstand der Forschungsfrage theoreti
 <div>
   **Inhalt:**
 
-  - Kommentierte Literaturliste: Studierende legen eine Literaturliste zu ihrem Forschungsgegenstand an und setzen über die Funktion Kommentare entsprechende Kommentierungen zum ausgewählten Litratur.
+  - [Kommentierte Literaturliste](https://www.twillo.de/edu-sharing/components/render/35cead9b-de25-407c-8d86-1455920f34da): Studierende legen eine Literaturliste zu ihrem Forschungsgegenstand an und setzen über die Funktion Kommentare entsprechende Kommentierungen zum ausgewählten Litratur.
 </div>
 
 <!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
