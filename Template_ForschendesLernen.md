@@ -73,7 +73,7 @@ Die "Regianweisungen" in dieser Kursvorlage geben Ihnen wichtige Informationen d
 ![Sichtbarkeit von Regieanweisungen](docs/visibility.svg)<!-- style = "text-align:center;" -->
 
 ## Phase 0: Vorbereitung und Ankündigung/Kursinformation
-
+---
 ![Advance Organizer für Forschendes Lernen](docs/AdvanceOrganizerForschendesLernen.svg)
 
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
@@ -110,6 +110,7 @@ Machen Sie durch die Bereitstellung von Informationen oder Hilfsmitteln transpar
 </p>
 
 ## Phase 1: Problem wahrnehmen
+---
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
 **Regieanweisungen für Lehrende**
@@ -181,6 +182,7 @@ Begründen Sie Ihre Motivation, sich mit diesem Problem auseinanderzusetzen.
 </div>
 
 ## Phase 2: Finden einer Fragestellung
+---
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
 **Regieanweisungen für Lehrende**
@@ -236,6 +238,7 @@ Bieten Sie Termine für Rückbesprechungen an. Als Vorbereitung für die Besprec
 </div>
 
 ## Phase 3: Erarbeiten von Informationen und theoretischen Zugängen
+---
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
 **Regieanweisungen für Lehrende**
@@ -290,6 +293,7 @@ Am Ende dieser Phase sollte der konkrete Gegenstand der Forschungsfrage theoreti
 </div>
 
 ## Phase 4: Auswahl und Aneignung von Methoden
+---
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
 **Regieanweisungen für Lehrende**
@@ -341,6 +345,7 @@ Am Ende können Studierende begründen, warum gerade diese Methode bzw. dieses w
 </div>
 
 ## Phase 5: Entwicklung eines Forschungsdesigns
+---
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
 **Regieanweisungen für Lehrende**
@@ -400,6 +405,7 @@ Um die einzelnen Eckdaten sowie Vorbereitungsschritte von der Datenerhebung bis 
 </div>
 
 ## Phase 6: Durchführung der forschenden Tätigkeit
+---
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
 **Regieanweisungen für Lehrende**
@@ -435,6 +441,7 @@ In dieser Forschungsphase kommen regelmäßigen Sprechstundenangeboten eine beso
 </div>
 
 ## Phase 7: Erarbeitung und Präsentation der Ergebnisse
+---
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
 **Regieanweisungen für Lehrende**
@@ -473,6 +480,7 @@ Verweisen Sie noch einmal auf die Hilfestellungen z.B. Gestaltungskritrien von w
 </div>
 
 ## Phase 8: Reflexion des gesamten Prozesses
+---
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
 **Regieanweisungen für Lehrende**
