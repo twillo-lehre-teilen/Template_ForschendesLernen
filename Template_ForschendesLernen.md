@@ -62,8 +62,8 @@ Die "Regianweisungen" in dieser Kursvorlage geben Ihnen wichtige Informationen d
 
 **Schritte für eine Nachnutzung:**
 
-1. Um diese LiaScript-Vorlage nachnutzen zu können benötigen Sie einen kostenlosen [GitHub-Account](https://github.com/). Besitzen Sie schon einen GitHub-Account können Sie mit Schritt 2 fortfahren. Falls Sie noch keinen Account bei GitHub besitzen erstellen Sie sich zunächst einen. [Hier gehts zur Anmeldung.](https://github.com/)
-2. Erstellen Sie nun ein neues Repository für Ihren eigenen Kurs. Zum importieren dieser Vorlage wählen Sie beim erstellen des Repositories die Option **"Import a repository"** aus. Gebe Sie als URL folgendes an: https://github.com/twillo-lehre-teilen/Template_ForschendesLernen.git. Desweiteren sollten Sie ihrem Repository einen prägnanten Titel für Ihren Kurs geben und es auf **"public"** stellen, damit LiaScript daraus einen Kurs generieren kann.
+1. Um diese LiaScript-Vorlage nachnutzen zu können benötigen Sie einen kostenlosen GitHub-Account. Besitzen Sie schon einen GitHub-Account können Sie mit Schritt 2 fortfahren. Falls Sie noch keinen Account bei GitHub besitzen erstellen Sie sich zunächst einen. [Hier gehts zur Anmeldung](https://github.com/).
+2. Erstellen Sie nun ein neues Repository für Ihren eigenen Kurs. Zum importieren dieser Vorlage wählen Sie beim erstellen des Repositories die Option **"Import a repository"** aus. Gebe Sie als URL folgendes an: ** https://github.com/twillo-lehre-teilen/Template_ForschendesLernen.git **. Desweiteren sollten Sie ihrem Repository einen prägnanten Titel für Ihren Kurs geben und es auf **"public"** stellen, damit LiaScript daraus einen Kurs generieren kann.
 3. Prüfen Sie nach dem Import, ob die Strukturen und Inhalte der Vorlage korrekt vorhanden sind.
 4. Zum generieren des Kurses besuchen Sie die [LiaScript-Website](https://liascript.github.io/). Fügen Sie hier die URL zur **Kursdatei (.md)** innerhalb des Repositories ein und klicken Sie auf **"Load Course"**. Ihr Kurs ist jetzt erstellt und erreichbar über der von LiaScript generierten URL.
 5. Nun können Sie innerhalb der Markdown-Datei (.md) die Inhalte jeder einzelnen Phase anpassen oder ergänzen. Alle Veränderungen werden dabei automatisch von LiaScript übernommen (Dies kann allerdings einige Minuten dauern). Um das Bearbeiten und Verändern des Kurses zu vereinfachen empfehlen wir Ihnen die Nutzung des **Texteditor Atom** in Verbindung mit dem **LiaScript Plugin** "liascript-preview"
@@ -101,8 +101,8 @@ Damit die Studierenden auch einschätzen können, welche Leistungen sie am Ende 
 
 Machen Sie durch die Bereitstellung von Informationen oder Hilfsmitteln transparent, welche Kriterien Sie zur Bewertung heranziehen. Fordern Sie von den Teilnehmenden etwa ein wissenschaftliches Poster, so stellen Sie möglichst eine Vorlage oder ein Best-Practice-Beispiel als Orientierungshilfe bereit. In dem Artikel [Wissenschaftliche Poster evaluieren. Konzeptionelle Überlegungen zu einem Präsentationsformat in Forschung und Lehre](https://www.researchgate.net/publication/343721962_Wissenschaftliche_Poster_evaluieren_Konzeptionelle_Uberlegungen_zu_einem_Prasentationsformat_in_Forschung_und_Lehre) von Stadler-Altmann (CC BY 4.0) erhalten Sie Hintergrundinformationen zum Einsatz von wissenschaftlichen Poster in der Lehre.
 
-- Laden Sie eine Datei hoch mit den Gestaltungskriterien für die Erstellung von wissenschaftlichen Poster ([Vorlage docx-Format](https://github.com/pilotta314/LiaScript_ForschendesLernen/blob/master/docs/chapter_0/Gestaltungskriterien%20Wissenschaftliches%20Poster.docx); [Vorlage pdf-Format](https://github.com/pilotta314/LiaScript_ForschendesLernen/blob/master/docs/chapter_0/Gestaltungskriterien%20Wissenschaftliches%20Poster.pdf))
-- Laden Sie zur Orientierung ggf. eine Vorlage hoch([Postervorlage_A2 odp-Format](https://github.com/pilotta314/LiaScript_ForschendesLernen/blob/master/docs/chapter_0/Postervorlage_A2.odp); [Postervorlage_A2 pptx-Format](https://github.com/pilotta314/LiaScript_ForschendesLernen/blob/master/docs/chapter_0/Postervorlage_A2.pptx))
+- Laden Sie eine Datei hoch mit den Gestaltungskriterien für die Erstellung von wissenschaftlichen Poster (<a href="https://github.com/pilotta314/LiaScript_ForschendesLernen/blob/master/docs/chapter_0/Gestaltungskriterien%20Wissenschaftliches%20Poster.docx" download>Vorlage docx-Format</a>; <a href="https://github.com/pilotta314/LiaScript_ForschendesLernen/blob/master/docs/chapter_0/Gestaltungskriterien%20Wissenschaftliches%20Poster.pdf" download>Vorlage pdf-Format</a>)
+- Laden Sie zur Orientierung ggf. eine Vorlage hoch(<a href="https://github.com/pilotta314/LiaScript_ForschendesLernen/blob/master/docs/chapter_0/Postervorlage_A2.odp" download>Postervorlage_A2 odp-Format</a>; <a href="https://github.com/pilotta314/LiaScript_ForschendesLernen/blob/master/docs/chapter_0/Postervorlage_A2.pptx" download>Postervorlage_A2 pptx-Format</a>)
 - Laden Sie zur Orientierung ein Best Practice-Beispiel hoch. Klären Sie ggf. mit Studierenden vorheriger Semester ab, ob Sie die Ergebnisse als Best Practice-Beispiele nutzen dürfen.
 </p>
 
@@ -127,7 +127,7 @@ Unter der Berücksichtigung der vorherrschenden Rahmenbedingungen können Sie zw
 
 **Methoden & Materialien**
 
-Je nach Strukturierungsgrad gilt es in dieser Phase, Impulse für den Zugang zum Themenfeld zu geben. Dies kann mithilfe von ausgewählten Methoden und Materialien erfolgen. Für den Einstieg in Phase 1 bietet sich der Einsatz eines Webquests an (siehe [Methodenglossar](https://twillo-lehre-teilen.github.io/Methodenglossar/#/)). Eine mögliche Strukturierung für das WebQuest finden Sie in dieser [WebQuest-Vorlage](https://wiki.tib.eu/confluence/download/attachments/131468599/Vorlage%20WebQuest.odt?version=5&modificationDate=1622027493000&api=v2). Geeignete Tools für die Erstellung des WebQuests reichen von einem einfachen Foliensatz bis zu dezidiert auf kollaboratives Arbeiten ausgerichteten Tools wie dem markdownbasierten [CodiMD](https://hackmd.okfn.de/).
+Je nach Strukturierungsgrad gilt es in dieser Phase, Impulse für den Zugang zum Themenfeld zu geben. Dies kann mithilfe von ausgewählten Methoden und Materialien erfolgen. Für den Einstieg in Phase 1 bietet sich der Einsatz eines Webquests an (siehe [Methodenglossar](https://twillo-lehre-teilen.github.io/Methodenglossar/#/)). Eine mögliche Strukturierung für das WebQuest finden Sie in dieser [WebQuest-Vorlage](https://www.twillo.de/edu-sharing/components/render/043196a1-ea1b-42d1-afa2-122b72de0bbe). Geeignete Tools für die Erstellung des WebQuests reichen von einem einfachen Foliensatz bis zu dezidiert auf kollaboratives Arbeiten ausgerichteten Tools wie dem markdownbasierten [CodiMD](https://hackmd.okfn.de/).
 
 Folgende Aufgaben können Sie in das WebQuest integrieren:
 
@@ -148,7 +148,7 @@ Die Vortragenden sollten in jedem Fall eine Rückmeldung über ihre identifizier
 <div>
   **Inhalt:**
 
-  - Template [WebQuest-Vorlage](https://wiki.tib.eu/confluence/download/attachments/131468599/Vorlage%20WebQuest.odt?version=5&modificationDate=1622027493000&api=v2)
+  - Template [WebQuest-Vorlage](https://www.twillo.de/edu-sharing/components/render/043196a1-ea1b-42d1-afa2-122b72de0bbe)
 </div>
 
 <!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
@@ -172,9 +172,9 @@ Begründen Sie Ihre Motivation, sich mit diesem Problem auseinanderzusetzen.
 
 <!--  style = "background-color: #F7D358; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>
-**Hilfestellungen/Begleitung**
+  **Hilfestellungen/Begleitung**
 
-Sie erhalten bei der Vorstellung ihres identifizierten Problems Feedback aus dem Plenum und können diese Rückmeldungen für eine weitere Vertiefung und ggf. Verfeinerung der Problemdefinition nutzen. Sie sollten nach Abschluss dieser Phase eine vorläufige Fragestellung formuliert haben. Diese dient der ersten Literaturrecherche.
+  Sie erhalten bei der Vorstellung ihres identifizierten Problems Feedback aus dem Plenum und können diese Rückmeldungen für eine weitere Vertiefung und ggf. Verfeinerung der Problemdefinition nutzen. Sie sollten nach Abschluss dieser Phase eine vorläufige Fragestellung formuliert haben. Diese dient der ersten Literaturrecherche.
 </div>
 
 ## Phase 2: Finden einer Fragestellung
@@ -206,7 +206,7 @@ Methodisch bietet sich in dieser Phase z.B. das Clustering von Fragen und Intere
 
 Am Ende dieser Phase sollte eine Fragestellung stehen. Gelegentlich kommt es vor, dass sich diese noch präzisiert oder ändert. Deshalb ist ein moderierter Schulterblick in dieser Phase von großer Bedeutung. Nehmen Sie eine beratende Rolle ein und unterstützen Sie die Studierenden ergebnisoffen bei der selbstständigen Erarbeitung ihrer Fragestellung. Schaffen Sie Räume für Rückbesprechungen. Diese können im Rahmen eines Beratungssettings erfolgen oder als Gruppenphase im Plenum gestaltet werden.
 
-Bieten Sie Termine für Rückbesprechungen an. Als Vorbereitung für die Besprechung kann ein zuvor prägnanter Arbeitsauftrag den Termin strukturieren, z.B. das Ausfüllen und Mitbringen der Vorlage [Dreisatz-Test zur Fragestellung](https://github.com/pilotta314/LiaScript_ForschendesLernen/blob/master/docs/chapter_2/Dreisatz-Test%20zur%20Fragestellung.pptx)
+Bieten Sie Termine für Rückbesprechungen an. Als Vorbereitung für die Besprechung kann ein zuvor prägnanter Arbeitsauftrag den Termin strukturieren, z.B. das Ausfüllen und Mitbringen der Vorlage [Dreisatz-Test zur Fragestellung](https://www.twillo.de/edu-sharing/components/render/7e9de94b-648e-49b7-a93c-c38c3ed4439a)
 
 - Stellen Sie z.B. eine Checkliste zur Formulierung einer Forschungsfrage bereit
 - Schauen Sie im LMS nach geeigneten interaktiven Elementen und setzen Sie sie ggf. ein (z.B. Foren)
@@ -216,7 +216,7 @@ Bieten Sie Termine für Rückbesprechungen an. Als Vorbereitung für die Besprec
 <div>
   **Inhalt:**
 
-  - [Template Dreisatz Test zur Fragestellung](https://github.com/pilotta314/LiaScript_ForschendesLernen/blob/master/docs/chapter_2/Dreisatz-Test%20zur%20Fragestellung.pptx)
+  - [Template Dreisatz Test zur Fragestellung](https://www.twillo.de/edu-sharing/components/render/7e9de94b-648e-49b7-a93c-c38c3ed4439a)
 </div>
 
 <!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
@@ -373,7 +373,7 @@ Um die einzelnen Eckdaten sowie Vorbereitungsschritte von der Datenerhebung bis 
 <div>
   **Inhalt:**
 
-  - [Zeitplan Vorlage](https://github.com/pilotta314/LiaScript_ForschendesLernen/blob/master/docs/chapter_5/Zeitund%20Ablaufplan%20Forschendes%20Lernen.pptx)
+  - [Zeitplan Vorlage](https://www.twillo.de/edu-sharing/components/render/dafdb09b-1b8a-4151-9273-d602a165b93f)
 </div>
 
 <!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
@@ -425,13 +425,6 @@ Methodisch bietet sich in dieser Phase für den Austausch zu Zwischenergebnissen
 
 In dieser Forschungsphase kommen regelmäßigen Sprechstundenangeboten eine besonders große Bedeutung zu.
 </p>
-
-<!--  style = "background-color: #F0F2F6; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
-<div>
-  **Inhalt:**
-
-  - *Kalenderfunktion*
-</div>
 
 <!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <div>
@@ -508,7 +501,7 @@ Sollte ein Forschungsprojekt vermeintlich gescheitert sein, regen Sie zur Reflex
 <div>
   **Inhalt:**
 
-  - [Vorlage Reflexion und Feedback (Vgl. Sonntag, M./Rueß, J./Ebert, C./Friederici, K./Schilow, L./Deicke, W. (2018): Forschendes Lernen im Seminar. Ein Leitfaden für Lehrende. Berlin, S.38-9)](https://github.com/pilotta314/LiaScript_ForschendesLernen/blob/master/docs/chapter_8/Reflexion%20und%20Feedback.pptx)
+  - [Vorlage Reflexion und Feedback (Vgl. Sonntag, M./Rueß, J./Ebert, C./Friederici, K./Schilow, L./Deicke, W. (2018): Forschendes Lernen im Seminar. Ein Leitfaden für Lehrende. Berlin, S.38-9)](https://www.twillo.de/edu-sharing/components/render/93f84cad-f4b2-4e50-9bee-5444effccf54)
 </div>
 
 <!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
