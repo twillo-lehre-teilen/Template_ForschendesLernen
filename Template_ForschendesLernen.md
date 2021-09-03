@@ -49,7 +49,7 @@ Das didaktische Template basiert auf der idealtypischen Anordnung der acht Phase
 *Weiterführende Literatur:*
 
 *Huber, L. (2009): Warum Forschendes Lernen nötig und möglich ist. In: Huber,L./ Hellmer, J./Schneider, F. (Hrsg.): Forschendes Lernen im Studium. Aktuelle Konzepte und Erfahrungen. Bielefeld, 9–35*
-*HRK (Hrsg.) (2015): Forschendes Lernen. In: Nexus impulse für die Praxis, H. 8. Online verfügbar unter https://www.hrk-nexus.de/fileadmin/redaktion/hrk-nexus/07-Downloads/07-02-Publikationen/impuls_Forschendes_Lernen.pdf*
+*HRK (Hrsg.) (2015): Forschendes Lernen. In: Nexus impulse für die Praxis, H. 8. Online verfügbar unter [https://www.hrk-nexus.de/fileadmin/redaktion/hrk-nexus/07-Downloads/07-02-Publikationen/impuls_Forschendes_Lernen.pdf](https://www.hrk-nexus.de/fileadmin/redaktion/hrk-nexus/07-Downloads/07-02-Publikationen/impuls_Forschendes_Lernen.pdf)*
 
 ---
 **Hinweise zur Nutzung des Templates**
@@ -63,7 +63,7 @@ Die "Regianweisungen" in dieser Kursvorlage geben Ihnen wichtige Informationen d
 **Schritte für eine Nachnutzung:**
 
 1. Um diese LiaScript-Vorlage nachnutzen zu können benötigen Sie einen kostenlosen GitHub-Account. Besitzen Sie schon einen GitHub-Account können Sie mit Schritt 2 fortfahren. Falls Sie noch keinen Account bei GitHub besitzen erstellen Sie sich zunächst einen. [Hier gehts zur Anmeldung](https://github.com/).
-2. Erstellen Sie nun ein neues Repository für Ihren eigenen Kurs. Zum importieren dieser Vorlage wählen Sie beim erstellen des Repositories die Option **"Import a repository"** aus. Gebe Sie als URL folgendes an: ** https://github.com/twillo-lehre-teilen/Template_ForschendesLernen.git **. Desweiteren sollten Sie ihrem Repository einen prägnanten Titel für Ihren Kurs geben und es auf **"public"** stellen, damit LiaScript daraus einen Kurs generieren kann.
+2. Erstellen Sie nun ein neues Repository für Ihren eigenen Kurs. Zum importieren dieser Vorlage wählen Sie beim erstellen des Repositories die Option **"Import a repository"** aus. Gebe Sie als URL folgendes an: [https://github.com/twillo-lehre-teilen/Template_ForschendesLernen.git](https://github.com/twillo-lehre-teilen/Template_ForschendesLernen.git). Desweiteren sollten Sie ihrem Repository einen prägnanten Titel für Ihren Kurs geben und es auf **"public"** stellen, damit LiaScript daraus einen Kurs generieren kann.
 3. Prüfen Sie nach dem Import, ob die Strukturen und Inhalte der Vorlage korrekt vorhanden sind.
 4. Zum generieren des Kurses besuchen Sie die [LiaScript-Website](https://liascript.github.io/). Fügen Sie hier die URL zur **Kursdatei (.md)** innerhalb des Repositories ein und klicken Sie auf **"Load Course"**. Ihr Kurs ist jetzt erstellt und erreichbar über der von LiaScript generierten URL.
 5. Nun können Sie innerhalb der Markdown-Datei (.md) die Inhalte jeder einzelnen Phase anpassen oder ergänzen. Alle Veränderungen werden dabei automatisch von LiaScript übernommen (Dies kann allerdings einige Minuten dauern). Um das Bearbeiten und Verändern des Kurses zu vereinfachen empfehlen wir Ihnen die Nutzung des **Texteditor Atom** in Verbindung mit dem **LiaScript Plugin** "liascript-preview"
@@ -101,8 +101,8 @@ Damit die Studierenden auch einschätzen können, welche Leistungen sie am Ende 
 
 Machen Sie durch die Bereitstellung von Informationen oder Hilfsmitteln transparent, welche Kriterien Sie zur Bewertung heranziehen. Fordern Sie von den Teilnehmenden etwa ein wissenschaftliches Poster, so stellen Sie möglichst eine Vorlage oder ein Best-Practice-Beispiel als Orientierungshilfe bereit. In dem Artikel [Wissenschaftliche Poster evaluieren. Konzeptionelle Überlegungen zu einem Präsentationsformat in Forschung und Lehre](https://www.researchgate.net/publication/343721962_Wissenschaftliche_Poster_evaluieren_Konzeptionelle_Uberlegungen_zu_einem_Prasentationsformat_in_Forschung_und_Lehre) von Stadler-Altmann (CC BY 4.0) erhalten Sie Hintergrundinformationen zum Einsatz von wissenschaftlichen Poster in der Lehre.
 
-- Laden Sie eine Datei hoch mit den Gestaltungskriterien für die Erstellung von wissenschaftlichen Poster (<a href="https://github.com/pilotta314/LiaScript_ForschendesLernen/blob/master/docs/chapter_0/Gestaltungskriterien%20Wissenschaftliches%20Poster.docx" download>Vorlage docx-Format</a>; <a href="https://github.com/pilotta314/LiaScript_ForschendesLernen/blob/master/docs/chapter_0/Gestaltungskriterien%20Wissenschaftliches%20Poster.pdf" download>Vorlage pdf-Format</a>)
-- Laden Sie zur Orientierung ggf. eine Vorlage hoch(<a href="https://github.com/pilotta314/LiaScript_ForschendesLernen/blob/master/docs/chapter_0/Postervorlage_A2.odp" download>Postervorlage_A2 odp-Format</a>; <a href="https://github.com/pilotta314/LiaScript_ForschendesLernen/blob/master/docs/chapter_0/Postervorlage_A2.pptx" download>Postervorlage_A2 pptx-Format</a>)
+- Laden Sie eine Datei hoch mit den Gestaltungskriterien für die Erstellung von wissenschaftlichen Poster ([Vorlage Gestaltungskriterien](https://www.twillo.de/edu-sharing/components/render/94294aac-5d62-4c27-b58d-2d93b1305d1f))
+- Laden Sie zur Orientierung ggf. eine Vorlage hoch ([Postervorlage](https://www.twillo.de/edu-sharing/components/render/210ffed5-0459-47d3-865b-f14121bf07e8))
 - Laden Sie zur Orientierung ein Best Practice-Beispiel hoch. Klären Sie ggf. mit Studierenden vorheriger Semester ab, ob Sie die Ergebnisse als Best Practice-Beispiele nutzen dürfen.
 </p>
 
@@ -320,7 +320,7 @@ Am Ende können Studierende begründen, warum gerade diese Methode bzw. dieses w
 <div>
   **Inhalt:**
 
-  - [Vorlage Elevator Pitch](https://github.com/pilotta314/LiaScript_ForschendesLernen/blob/master/docs/chapter_4/elevator%20pitch.pptx)
+  - [Vorlage Elevator Pitch](https://www.twillo.de/edu-sharing/components/render/8aafe05f-9de8-4cbd-a701-f8fd4fc54f2e)
 </div>
 
 <!--  style = "background-color: #A6D492; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
@@ -332,7 +332,7 @@ Am Ende können Studierende begründen, warum gerade diese Methode bzw. dieses w
 <div>
   **✎ Arbeitsauftrag:**
 
-  Bereiten Sie im Rahmen eines Elevator Pitches einen Kurzvortrag vor und erläutern Sie im Plenum Ihr methodisches Vorgehen. Beachten Sie dabei die Aspekte aus der Vorlage (Evelator Pitch).
+  Bereiten Sie im Rahmen eines Elevator Pitches einen Kurzvortrag vor und erläutern Sie im Plenum Ihr methodisches Vorgehen. Beachten Sie dabei die Aspekte aus der Vorlage (Elevator Pitch).
 
   Im Anschluss des Kurzvortrags können Ihre Kommiliton:innen Ihnen Rückmeldung zu Ihrem geplanten Vorgehen geben.
 </div>
