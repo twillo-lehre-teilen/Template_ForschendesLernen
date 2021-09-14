@@ -88,9 +88,7 @@ Die "Regianweisungen" in dieser Kursvorlage geben Ihnen wichtige Informationen d
 
 ## Phase 0: Vorbereitung und Ankündigung/Kursinformation
 ---
-
 ![FL\ 0](docs/FL_0.png)<!-- style = "text-align:center;" -->
-
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
 **Regieanweisungen für Lehrende**
@@ -256,7 +254,7 @@ Bieten Sie Termine für Rückbesprechungen an. Als Vorbereitung für die Besprec
 
 ## Phase 3: Erarbeiten von Informationen und theoretischen Zugängen
 ---
-![FL_3](docs/FL_3.png)<!-- style = "text-align:center;" -->
+![FL\_3](docs/FL_3.png)<!-- style = "text-align:center;" -->
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
 **Regieanweisungen für Lehrende**
@@ -312,7 +310,7 @@ Am Ende dieser Phase sollte der konkrete Gegenstand der Forschungsfrage theoreti
 
 ## Phase 4: Auswahl und Aneignung von Methoden
 ---
-![FL_4](docs/FL_4.png)<!-- style = "text-align:center;" -->
+![FL\_4](docs/FL_4.png)<!-- style = "text-align:center;" -->
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
 **Regieanweisungen für Lehrende**
@@ -365,7 +363,7 @@ Am Ende können Studierende begründen, warum gerade diese Methode bzw. dieses w
 
 ## Phase 5: Entwicklung eines Forschungsdesigns
 ---
-![FL_5](docs/FL_5.png)<!-- style = "text-align:center;" -->
+![FL\_5](docs/FL_5.png)<!-- style = "text-align:center;" -->
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
 **Regieanweisungen für Lehrende**
@@ -426,7 +424,7 @@ Um die einzelnen Eckdaten sowie Vorbereitungsschritte von der Datenerhebung bis 
 
 ## Phase 6: Durchführung der forschenden Tätigkeit
 ---
-![FL_6](docs/FL_6.png)<!-- style = "text-align:center;" -->
+![FL\_6](docs/FL_6.png)<!-- style = "text-align:center;" -->
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
 **Regieanweisungen für Lehrende**
@@ -463,7 +461,7 @@ In dieser Forschungsphase kommen regelmäßigen Sprechstundenangeboten eine beso
 
 ## Phase 7: Erarbeitung und Präsentation der Ergebnisse
 ---
-![FL_7](docs/FL_7.png)<!-- style = "text-align:center;" -->
+![FL\_7](docs/FL_7.png)<!-- style = "text-align:center;" -->
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
 **Regieanweisungen für Lehrende**
@@ -503,7 +501,7 @@ Verweisen Sie noch einmal auf die Hilfestellungen z.B. Gestaltungskritrien von w
 
 ## Phase 8: Reflexion des gesamten Prozesses
 ---
-![FL_8](docs/FL_8.png)<!-- style = "text-align:center;" -->
+![FL\_8](docs/FL_8.png)<!-- style = "text-align:center;" -->
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
 **Regieanweisungen für Lehrende**
