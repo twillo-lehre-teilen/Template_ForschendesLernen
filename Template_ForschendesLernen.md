@@ -88,6 +88,7 @@ Die "Regianweisungen" in dieser Kursvorlage geben Ihnen wichtige Informationen d
 
 ## Phase 0: Vorbereitung und Ankündigung/Kursinformation
 ---
+
 ![FL_0](docs/FL_0.png)<!-- style = "text-align:center;" -->
 
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
