@@ -89,7 +89,7 @@ Die "Regianweisungen" in dieser Kursvorlage geben Ihnen wichtige Informationen d
 ## Phase 0: Vorbereitung und Ankündigung/Kursinformation
 ---
 
-![FL 0](docs/FL_0.png)<!-- style = "text-align:center;" -->
+![FL\ 0](docs/FL_0.png)<!-- style = "text-align:center;" -->
 
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
@@ -126,7 +126,7 @@ Machen Sie durch die Bereitstellung von Informationen oder Hilfsmitteln transpar
 
 ## Phase 1: Problem wahrnehmen
 ---
-![FL_1](docs/FL_1.png)<!-- style = "text-align:center;" -->
+![FL\_1](docs/FL_1.png)<!-- style = "text-align:center;" -->
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
 **Regieanweisungen für Lehrende**
@@ -199,7 +199,7 @@ Begründen Sie Ihre Motivation, sich mit diesem Problem auseinanderzusetzen.
 
 ## Phase 2: Finden einer Fragestellung
 ---
-![FL_2](docs/FL_2.png)<!-- style = "text-align:center;" -->
+![FL\_2](docs/FL_2.png)<!-- style = "text-align:center;" -->
 <!--  style = "border: 3px solid #880000; background-color: #FAFAFC; color:black; padding: 10px 10px 5px 10px; margin-bottom: 10px" -->
 <p>
 **Regieanweisungen für Lehrende**
