@@ -1,3 +1,22 @@
+<!--
+author:   twillo
+
+email:    support.twillo@tib.eu
+
+version:  1.0.0
+
+language: de
+
+narrator: Stina Schäfer, Lennart Rosseburg
+
+comment:  Die didaktische Vorlage Forschendes Lernen von [twillo](https://twillo.de/) ist lizenziert unter der [Lizenz CC 0 (1.0)](https://creativecommons.org/publicdomain/zero/1.0/legalcode). Ausgenommen von der Lizenz sind die verwendeten Screenshots sowie anders gekennzeichnete Elemente.<br><b>Das GitHub-Repository zu diesem Kurs finden Sie [hier](https://github.com/twillo-lehre-teilen/Template_ForschendesLernen).</b>
+
+mode:     Presentation
+
+link:     
+
+script:   
+-->
 <!-- 
   Einstellung der Sichtbarkeit von Regieanweisungen:
   - Die Regieanweisungen befinden sich direkt zu Beginn jeder Phase und sind umklammert von HTML p-tags (Bsp.: <p>...Regieanweisung...</p>)
